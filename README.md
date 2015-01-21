@@ -1,4 +1,6 @@
 ---
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/quassy/elementary-apps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 layout: page
 title: Readme
 permalink: /readme/
