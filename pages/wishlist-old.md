@@ -18,7 +18,9 @@ Name | Generic | Info
 *Indicator Night* | Indicator | An indicator adjusting the screen color to time of day, like f.lux. Maybe also include the option to switch to dark them depending on time of day.
 *unnamed* | Font Manager | A good font manager, better than NexusFont. Include downloading from free font resources directly from inside the app, provide categoriziation via library data
 *unnamed* | Multi-messenger | Multi-messenger, basically Pidgin (pretty good) only with native integration (GTK3, headerbars, ...)
+[PDF-Shuffler](http://sourceforge.net/projects/pdfshuffler/) (abandoned since 09.2013) | PDF Management | GUI to merge multiple PDF files into one document. 
 *Indicator Share* | Indicator | Similar to what Microsoft could have done with the share button in charms: You select something, click on the indicator or use a shortcut, and can immediately share it via services (in online accounts and specified in settings) in one click. The app detects the type of the selection (image, text, link...) and tries to share appropriately
+*Standby Timer Indicator* | Indicator | An indicator that allows the user to set X minutes after which the system automatically goes into standby
 
 
 As you see, there is always work to do. 
