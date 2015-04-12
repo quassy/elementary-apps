@@ -26,7 +26,7 @@ links:
   - type: Readme
     url: 'https://github.com/mank319/elementaryPlus/blob/master/README.md'
   - type: Authors
-    url: 'https://github.com/mank319/elementaryPlus/blob/master/CREDITS.md'
+    url: 'https://github.com/mank319/elementaryPlus/blob/master/CREDIT.csv'
     
 installation:
   - system: elementary OS
