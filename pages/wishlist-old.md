@@ -11,8 +11,10 @@ If you are a developer please squash some [elementary bugs](http://bugs.launchpa
 Name | Generic | Info
 ---|---|---
 [AppCenter](https://launchpad.net/appcenter) (in-development) | Software Store | Official elementary app. Only included because people often ask: This in development, but it is not expected to be finished before elementary 0.4 Loki. 
+*Archive Manager* | Archive manager | elementary needs something to replace `file roller` that looks out of place
 *Auth App* | Two-factor code generator | A generator for two-factor authentication codes similar to WinAuth
 [Dexter](https://launchpad.net/dexter-contacts) (abandoned) | Contact Management | Official elementary application. Should allow syncing with contacts in cloud (Google, Microsoft, Apple, self-hosted).
+*elementary shortcut* | System | A nice way to learn the elementary shortcuts. <img src="https://camo.githubusercontent.com/72b303c2c0340d0777f6e2031f6f8547b4524a33/687474703a2f2f666330312e64657669616e746172742e6e65742f667337312f662f323031322f3332322f622f302f6b6579626f6172645f73686f7274637574735f62795f62617373756c7472612d64356c6536366f2e706e67" align="left" width="456" > Source [bassultra](http://bassultra.deviantart.com/art/Keyboard-Shortcuts-Cheatsheet-338264016)
 *Font Manager* | Font Manager | A good font manager, better than NexusFont. Include downloading from free font resources directly from inside the app, provide categoriziation via library data
 *Indicator Night* | Indicator | An indicator adjusting the screen color to time of day, like f.lux. Maybe also include the option to switch to dark them depending on time of day.
 *Indicator Share* | Indicator | Similar to what Microsoft could have done with the share button in charms: You select something, click on the indicator or use a shortcut, and can immediately share it via services (in online accounts and specified in settings) in one click. The app detects the type of the selection (image, text, link...) and tries to share appropriately
@@ -21,9 +23,7 @@ Name | Generic | Info
 *Messenger* | Multi-messenger | Multi-messenger, basically Pidgin (pretty good) only with native integration (GTK3, headerbars, ...)
 *Office Suite* | Office Suite | By popular demand, but probably an undertaking as big as the whole elementary project. [Writer]({{ site.baseurl }}Writer/) is the only currently existing app that could be part of this, a spreadsheet and presentation app only exist as mockups so far. 
 [PDF-Shuffler](http://sourceforge.net/projects/pdfshuffler/) (abandoned since 09.2013) | PDF Management | GUI to merge multiple PDF files into one document. 
-*VC Client* | Client for git (& others?) | Maybe something like [described in this blog entry](http://tonsky.me/blog/reinventing-git-interface/), or GitHub for Windows
-*Archive Manager* | Archive manager | elementary needs something to replace `file roller` that looks out of place
 *Process Viewer* | Process viewer | There is no easy way to view (and sometimes kill) the running processes. Being able to view the CPU and memory load would be also nice
-*elementary shortcut* | System | A nice way to learn the elementary shortcuts. <img src="https://camo.githubusercontent.com/72b303c2c0340d0777f6e2031f6f8547b4524a33/687474703a2f2f666330312e64657669616e746172742e6e65742f667337312f662f323031322f3332322f622f302f6b6579626f6172645f73686f7274637574735f62795f62617373756c7472612d64356c6536366f2e706e67" align="left" width="456" > Source [bassultra](http://bassultra.deviantart.com/art/Keyboard-Shortcuts-Cheatsheet-338264016)
+*VC Client* | Client for git (& others?) | Maybe something like [described in this blog entry](http://tonsky.me/blog/reinventing-git-interface/), or GitHub for Windows
 
 If there is another app for elementary you are missing desperately, feel free to [file an issue at GitHub](https://github.com/quassy/elementary-apps/issues/new) to get it added to the list (or *just* create it yourself). 
