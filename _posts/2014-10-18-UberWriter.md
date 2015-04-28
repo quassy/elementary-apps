@@ -27,7 +27,7 @@ links:
     url: 'http://bazaar.launchpad.net/~w-vollprecht/uberwriter/quickly_trunk/view/head:/AUTHORS'
 
 installation:
-  - system: elementary OS
+  - system: elementary
     info: 
     - version: 0.3
       repository: 'ppa:w-vollprecht/ppa'

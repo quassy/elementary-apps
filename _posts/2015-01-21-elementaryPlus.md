@@ -11,7 +11,7 @@ generic: Icon set
 description: A collection of several third party icons and scripts for panel indicators as an addition to the default icon theme.
 license: TBD
 
-authors: 
+authors:
   - name: Manuel Kehl
     url: https://github.com/mank319
   - name: 'Stefan Ric "cybre"'
@@ -27,22 +27,22 @@ links:
     url: 'https://github.com/mank319/elementaryPlus/blob/master/README.md'
   - type: Authors
     url: 'https://github.com/mank319/elementaryPlus/blob/master/CREDIT.csv'
-    
+
 installation:
-  - system: elementary OS
-    info: 
+  - system: elementary
+    info:
     - version: 0.3
       repository: 'ppa:justsomedood/justsomeelementary'
-      package: elementary-plus-icons 
+      package: elementary-plus-icons
       type: unstable
   - system: Ubuntu
-    info: 
+    info:
     - version: 14.04
       repository: 'ppa:justsomedood/justsomeelementary'
-      package: elementary-plus-icons 
+      package: elementary-plus-icons
       type: unstable
-      
-tags: 
+
+tags:
   - Icons
   - Luna
   - Freya

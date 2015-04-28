@@ -2,12 +2,16 @@
 published: true
 layout: app
 category: app
+created: 2015-01-07
+updated: 2015-04-28
+
 title: MarkMyWords
+title_obvious: false
 generic: Markdown editor
 description: 'A minimal markdown editor.'
 license: MIT
 
-authors: 
+authors:
   - name: Akshay Shekher
     url: "https://plus.google.com/108513512706331500895"
 
@@ -15,9 +19,17 @@ links:
   - type: GitHub
     url: voldyman/MarkMyWords
 
-repository: 'ppa:voldyman/markmywords'
-repository-unstable:
-package: 'mark-my-words'
+installation:
+  - system: elementary
+    info:
+    - version: 0.3
+      repository: 'ppa:justsomedood/justsomeelementary'
+      package: mark-my-words
+      type: stable
+    - version: 0.3
+      repository: 'ppa:voldyman/markmywords'
+      package: mark-my-words
+      type: stable
 ---
 ## Video
 A review by [Joaquín Padilla Rivero](https://www.youtube.com/channel/UC_im4PuM9ViTNjaUf2cXmgg)

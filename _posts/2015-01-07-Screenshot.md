@@ -2,13 +2,16 @@
 published: true
 layout: app
 category: app
+created: 2015-01-07
+updated: 2015-04-28
+
 title: Screenshot
 title_obvious: true
 generic: Screenshot tool
 description: 'A simple screen capture tool made for elementary OS'
 license: GPL v3
 
-authors: 
+authors:
   - name: Fabio Zaramella
     url: "https://launchpad.net/~ffabio-96-x"
 
@@ -18,10 +21,13 @@ links:
 
 screenshots:
   - Screenshot.png
-
-repository: ppa:fabiozaramella/screenshot-tool 
-repository-unstable:
-package: screenshot-tool
+installation:
+  - system: elementary
+    info:
+    - version: 0.3
+      repository: 'ppa:fabiozaramella/screenshot-tool'
+      package: screenshot-tool
+      type: stable
 
 tags:
   - Vala

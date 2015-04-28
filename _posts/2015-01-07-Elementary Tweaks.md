@@ -2,12 +2,16 @@
 published: true
 layout: app
 category: app
+created: 2015-01-07
+updated: 2015-04-28
+
 title: Elementary Tweaks
+title_obvious: false
 generic: Customization
 description: 'System tweaks for elementary OS Freya, organized as a Switchboard plugin.'
 license: GPL v3
 
-authors: 
+authors:
   - name: Michael P. Starkweather
     url: "https://launchpad.net/~mpstark"
   - name: Blaž Mežnaršič
@@ -21,8 +25,13 @@ links:
   - type: Launchpad
     url: elementary-tweaks
 
-repository-unstable: 'ppa:mpstark/elementary-tweaks-daily'
-package: 'elementary-tweaks'
+installation:
+  - system: elementary
+    info:
+    - version: 0.3
+      repository: 'ppa:mpstark/elementary-tweaks-daily'
+      package: elementary-tweaks
+      type: unstable
 ---
 ## Video
 A review by [Joaquín Padilla Rivero](https://www.youtube.com/channel/UC_im4PuM9ViTNjaUf2cXmgg)

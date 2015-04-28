@@ -2,13 +2,16 @@
 published: true
 layout: app
 category: app
+created: 2015-02-01
+updated: 2015-04-28
+
 title: Atlas Maps
 title_obvious: true
 generic: Map viewer
 description: A map viewer for elementary OS
-license: GPL v3 
+license: GPL v3
 
-authors: 
+authors:
   - name: Steffen Schuhmann
     url: https://launchpad.net/~sschuhmann
 
@@ -23,11 +26,11 @@ links:
   - type: Build
     url: 'http://bazaar.launchpad.net/~sschuhmann/atlas-maps/trunk/view/head:/INSTALL'
 
-screenshots_:
-  - File.png
-
-tags_:
-  - GTK3
-  - Vala
-  - Freya
+installation:
+  - system: elementary
+    info:
+    - version: 0.3
+      repository: 'ppa:justsomedood/justsomeelementary'
+      package:
+      type: stable
 ---

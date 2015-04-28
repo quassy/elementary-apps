@@ -2,12 +2,16 @@
 published: true
 layout: app
 category: app
+created: 2015-01-07
+updated: 2015-04-28
+
 title: Power Installer
+title_obvious: false
 generic: One-click installer
-description: 
+description:
 license: GPL v3
 
-authors: 
+authors:
   - name: Adam Bieńkowski
     url: "https://plus.google.com/102383287758197741530"
 
@@ -17,9 +21,17 @@ links:
   - type: Launchpad
     url: power-installer
 
-repository: ppa:donadigo/power-installer
-repository-unstable:
-package: power-installer
+installation:
+  - system: elementary
+    info:
+    - version: 0.3
+      repository: 'ppa:justsomedood/justsomeelementary'
+      package: power-installer
+      type: stable
+    - version: 0.3
+      repository: 'ppa:donadigo/power-installer'
+      package: power-installer
+      type: stable
 
 tags:
   - Vala

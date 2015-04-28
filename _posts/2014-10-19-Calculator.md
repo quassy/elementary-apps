@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: app
 category: app
 created: 2014-10-19
@@ -8,7 +8,7 @@ updated: 2015-03-21
 title: Calculator
 title_obvious: true
 generic: Calculator
-description: 'A fast and beautiful Calculator. The UI is rather simple, but scientific functions and mathematical constants can be typed in. It has a history functionality for the current session and clipboard support.'
+description: 'A fast and beautiful calculator. The UI is rather simple, but scientific functions and mathematical constants can be typed in. It has a history functionality for the current session and clipboard support.'
 license: GPL v3
 
 authors: 
@@ -29,7 +29,7 @@ links:
     url: 'http://bazaar.launchpad.net/~siasola/elementarycalculator/trunk/view/head:/AUTHORS'
 
 installation:
-  - system: elementary OS
+  - system: elementary
     info: 
     - version: 0.3
       repository: 'ppa:siasola/ppa'
@@ -52,4 +52,4 @@ tags:
   - Freya
 ---
 
-*As of 2015-03-21 the [last commit](https://code.launchpad.net/elementarycalculator) was on 2014-10-23. The project might be dead. By now elementary features [Pantheon Calculator](/Pantheon Calcultor) as a new default and native calculator.*
+*As of 2015-03-21 the [last commit](https://code.launchpad.net/elementarycalculator) was on 2014-10-23, the project might be dead. By now elementary features [Pantheon Calculator](/Pantheon Calcultor) as a new default and native calculator.*
