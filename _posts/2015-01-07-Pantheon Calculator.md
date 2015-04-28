@@ -22,8 +22,13 @@ links:
 screenshots:
   - Pantheon Calculator.png
 
-repository_: 'stock'
-package_: 'calculus'
+installation:
+  - system: elementary
+    info:
+    - version: 0.3
+      repository: stock
+      package: calculus
+      type: stable
 
 tags:
   - stock

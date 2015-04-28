@@ -11,7 +11,7 @@ generic: Calculator
 description: 'A fast and beautiful calculator. The UI is rather simple, but scientific functions and mathematical constants can be typed in. It has a history functionality for the current session and clipboard support.'
 license: GPL v3
 
-authors: 
+authors:
   - name: Lars Berscheid
     url: 'https://launchpad.net/~siasola'
     mail: 'siasola@gmail.com'
@@ -30,13 +30,13 @@ links:
 
 installation:
   - system: elementary
-    info: 
+    info:
     - version: 0.3
       repository: 'ppa:siasola/ppa'
       package: elementary-calculator
       type: unstable
   - system: Ubuntu
-    info: 
+    info:
     - version: 14.04
       repository: 'ppa:siasola/ppa'
       package: elementary-calculator

@@ -29,6 +29,10 @@ installation:
   - system: elementary
     info:
     - version: 0.3
+      repository: 'ppa:justsomedood/justsomeelementary'
+      package: elementary-tweaks
+      type: stable
+    - version: 0.3
       repository: 'ppa:mpstark/elementary-tweaks-daily'
       package: elementary-tweaks
       type: unstable

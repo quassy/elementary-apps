@@ -11,7 +11,7 @@ generic: Markdown editor
 description: 'A simple markdown editor that offers a lot of features. Get it if you love markdown and like writing in a clutter free environment.'
 license: GPL v3
 
-authors: 
+authors:
   - name: Wolf Vollprecht
     url: 'https://plus.google.com/109074337730327400984'
     mail: 'w.vollprecht@gmail.com'
@@ -28,18 +28,18 @@ links:
 
 installation:
   - system: elementary
-    info: 
+    info:
     - version: 0.3
       repository: 'ppa:w-vollprecht/ppa'
       package: uberwriter
       type: stable
   - system: Ubuntu
-    info: 
+    info:
     - version: 14.04
       repository: stock
       package: uberwriter
       type: stable
-      
+
 tags:
   - Freya
 ---
