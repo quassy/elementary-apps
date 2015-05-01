@@ -20,7 +20,7 @@ permalink: /apps/
             <a href="{{ site.baseurl }}{{ post.url }}" style="font-weight:bold">
               {{ post.title }}
             </a>
-            {% if post.package %}<span class="octicon octicon-package" title="Package available"></span>{% endif %}
+            {% if post.installation %}<span class="octicon octicon-package" title="Package available"></span>{% endif %}
             {% if post.screenshots %}<span class="octicon octicon-device-desktop" title="Screenshot available"></span>{% endif %}
             <br/>
             {% include list_links.html %}
