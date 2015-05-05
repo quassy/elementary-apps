@@ -6,6 +6,7 @@ created: 2015-01-14
 updated: 2015-04-28
 
 title: Synopsis
+permalink: /Synopsis
 title_obvious: false
 generic: Archive utility
 description: 'A simple and concise archive utility.'

@@ -6,6 +6,7 @@ created: 2015-01-07
 updated: 2015-04-28
 
 title: Feedler
+permalink: /Feedler
 title_obvious: true
 generic: Feed reader
 description: 'Feedler is an awesome RSS reader'

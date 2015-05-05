@@ -6,6 +6,7 @@ created: 2014-04-07
 updated: 2015-03-21
 
 title: Birdie
+permalink: /Birdie
 title_obvious: false
 generic: Twitter client
 description: A beautiful Twitter client seamlessly integrated with your desktop environment. It is fast, easy to use and works great.

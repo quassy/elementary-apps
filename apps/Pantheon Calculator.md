@@ -6,6 +6,7 @@ created: 2015-01-07
 updated: 2015-04-28
 
 title: Pantheon Calculator
+permalink: /Pantheon Calculator
 title_obvious: true
 generic: Calculator
 description: 'The native calculator starting with elementary OS 0.3 Freya. It integrates perfectly into the elementary eco system.'

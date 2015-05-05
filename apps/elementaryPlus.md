@@ -6,6 +6,7 @@ created: 2015-01-21
 updated: 2015-03-21
 
 title: elementary+
+permalink: /elementary+
 title_obvious: false
 generic: Icon set
 description: A collection of several third party icons and scripts for panel indicators as an addition to the default icon theme.

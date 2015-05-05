@@ -6,6 +6,7 @@ created: 2015-01-07
 updated: 2015-04-28
 
 title: FeedReader
+permalink: /FeedReader
 title_obvious: true
 generic: Feed reader
 description: 'A simple feedreader client (not manager) for web services like Tiny Tiny RSS and in the future others (especially Feedly).'

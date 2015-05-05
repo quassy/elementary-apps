@@ -6,6 +6,7 @@ created: 2015-01-07
 updated: 2015-04-28
 
 title: Power Installer
+permalink: /Power Installer
 title_obvious: false
 generic: One-click installer
 description:

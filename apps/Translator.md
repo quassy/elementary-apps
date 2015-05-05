@@ -6,6 +6,7 @@ created: 2015-01-07
 updated: 2015-04-28
 
 title: Translator
+permalink: /Translator
 title_obvious: true
 generic: Translator
 description: 'Translates a text side-by-side.'

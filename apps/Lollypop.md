@@ -6,6 +6,7 @@ created: 2015-01-07
 updated: 2015-04-28
 
 title: Lollypop
+permalink: /Lollypop
 title_obvious: false
 generic: Music player
 description: 'Lollypop is a GNOME music player.'

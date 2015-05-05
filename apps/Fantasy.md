@@ -6,6 +6,7 @@ created: 2015-01-14
 updated: 2015-04-28
 
 title: Fantasy
+permalink: /Fantasy
 title_obvious: false
 generic: Book reader
 description:

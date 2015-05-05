@@ -6,6 +6,7 @@ created: 2014-10-21
 updated: 2015-03-21
 
 title: Taxi
+permalink: /Taxi
 title_obvious: false
 generic: FTP client
 description: 'A simple to use FTP client. It nails the simple use case of transferring files to a remote server using a two-pane layout.'

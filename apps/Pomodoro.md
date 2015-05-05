@@ -6,6 +6,7 @@ created: 2015-01-07
 updated: 2015-04-28
 
 title: Pomodoro
+permalink: /Pomodor
 title_obvious: false
 generic: Timer
 description: 'A Pomodoro app for the elementary OS desktop'

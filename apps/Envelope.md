@@ -6,6 +6,7 @@ created: 2015-01-07
 updated: 2015-04-28
 
 title: Envelope
+permalink: /Envelope
 title_obvious: false
 generic: Budget management
 description: 'A personal budget application that helps you maintain your personal budget by using the tried-and-true envelope system. You designate spending categories (envelopes) and distribute your monthly income into them.'

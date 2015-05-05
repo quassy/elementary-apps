@@ -6,6 +6,7 @@ created: 2015-01-07
 updated: 2015-04-28
 
 title: Indicator Workspaces
+permalink: /Indicator Workspaces
 title_obvious: true
 generic: Indicator
 description: 'Configure workspaces and interact with them in the panel.'
