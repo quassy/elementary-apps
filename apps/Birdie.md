@@ -1,7 +1,7 @@
 ---
 published: true
 layout: app
-category: app
+category: App
 created: 2014-04-07
 updated: 2015-03-21
 

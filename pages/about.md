@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A ressource for 3rd party software designed for [elementary (OS)](http://elementary.io). If you find an error or want to add an app, [file an issue](https://github.com/quassy/elementary-apps/issues/new). You can find detailed info about contributing in the [readme file]({{ site.baseurl }}/readme).
+A resource for 3rd party software designed for [elementary (OS)](http://elementary.io). If you find an error or want to add an app, [file an issue](https://github.com/quassy/elementary-apps/issues/new). You can find detailed info about contributing in the [readme file]({{ site.baseurl }}/readme).
 
 Started at [/r/elementaryos](http://www.reddit.com/r/elementaryos/comments/2r0xey/third_party_development_and_apps/), [with](http://madeforelementary.tumblr.com/) [some](https://github.com/PerfectCarl/elementary-apps) [inspiration](https://github.com/elementary-fr/ideas).
 
@@ -12,17 +12,16 @@ Started at [/r/elementaryos](http://www.reddit.com/r/elementaryos/comments/2r0xe
 
 ## Blogroll
 
-* [elementary OS Snippets](http://eos-snippets.blogspot.com/)
-* [LME Linux](http://lmelinux.net/#2014-12-06)
-* [elementary now](http://www.elementarynow.com/#2014-11-28)
-* [elementary OS, Android and more](http://elementaryosandmore.blogspot.de/#2014-11-18)
-* [WOW! elementary!](http://wowelementary.com/#2014-11-09)
-* [fuck yeah, elementary OS!](http://fuckyeah-elementaryos.tumblr.com/#2014-10-29)
-* [Made for elementary](http://madeforelementary.tumblr.com/)
+* [fuck yeah, elementary OS!](http://fuckyeah-elementaryos.tumblr.com/#2015-05-04)
+* [elementary now](http://www.elementarynow.com/#2015-04-18)
+* [elementary OS Snippets](http://eos-snippets.blogspot.com/#2015-04-17)
+* [WOW! elementary!](http://wowelementary.com/#2015-04-13)
+* [LME Linux](http://lmelinux.net/#2015-04-08)
+* [Made for elementary](http://madeforelementary.tumblr.com/#2015-02-14)
 
 ## Other elementary links
 
-* [Journal](http://elementary.io/journal) & [Blog](http://blog.elementary.io)
+* [Official elementary blog](http://blog.elementary.io/#2015-04-29)
 * [designs and mockups on deviantArt](http://elementaryos.deviantart.com/)
 * [official developers starting point](http://elementary.io/developer)
 * [Launchpad project](https://launchpad.net/elementary/)

@@ -1,5 +1,6 @@
 ---
 published: true
+permalink: ':title'
 layout: app
 category: app
 created: 2015-01-07
