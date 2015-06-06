@@ -6,7 +6,7 @@ created: 2015-01-07
 updated: 2015-04-28
 
 title: Screenshot
-permalink: /Screenshot
+permalink: /Screenshot/
 title_obvious: true
 generic: Screenshot tool
 description: 'A simple screen capture tool made for elementary OS'

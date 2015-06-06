@@ -6,7 +6,7 @@ created: 2015-01-07
 updated: 2015-04-28
 
 title: Writer
-permalink: /Writer
+permalink: /Writer/
 title_obvious: false
 generic: Word processor
 description: 'Writer aims to be a super-simple, lightweight, and integrated word processor.'

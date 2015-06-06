@@ -6,7 +6,7 @@ created: 2015-01-17
 updated: 2015-04-28
 
 title: Alternative Window Switcher
-permalink: /Alternative Window Switcher
+permalink: /Alternative Window Switcher/
 title_obvious: false
 generic: Gala plugin
 description: This is an alternative to the stock libplank window switcher.

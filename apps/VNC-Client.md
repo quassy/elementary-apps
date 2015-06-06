@@ -6,7 +6,7 @@ created: 2015-01-07
 updated: 2015-04-28
 
 title: VNC-Client
-permalink: /VNC-Cient
+permalink: /VNC-Cient/
 title_obvious: true
 generic: Remote desktop client
 description: 'An very light and neat VNC client for elementary OS.'

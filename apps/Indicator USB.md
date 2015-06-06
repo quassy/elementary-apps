@@ -6,7 +6,7 @@ created: 2015-01-14
 updated: 2015-04-28
 
 title: Indicator USB
-permalink: /Indicator USB
+permalink: /Indicator USB/
 title_obvious: true
 generic: Indicator
 description:

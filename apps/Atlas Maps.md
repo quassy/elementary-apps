@@ -6,7 +6,7 @@ created: 2015-02-01
 updated: 2015-04-28
 
 title: Atlas Maps
-permalink: /Atlas Maps
+permalink: /Atlas Maps/
 title_obvious: true
 generic: Map viewer
 description: A map viewer for elementary OS

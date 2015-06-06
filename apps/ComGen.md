@@ -6,7 +6,7 @@ created: 2015-01-07
 updated: 2015-04-28
 
 title: ComGen
-permalink: /ComGen
+permalink: /ComGen/
 title_obvious: false
 generic: Developer tool
 description:

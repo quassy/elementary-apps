@@ -6,7 +6,7 @@ created: 2015-01-07
 updated: 2015-04-28
 
 title: Agenda
-permalink: /Agenda
+permalink: /Agenda/
 title_obvious: false
 generic: Task management
 description: 'A simple, slick, speedy, no-nonsense task manager.'

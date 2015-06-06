@@ -6,7 +6,7 @@ created: 2015-01-07
 updated: 2015-04-28
 
 title: System Monitor
-permalink: /System Monitor
+permalink: /System Monitor/
 title_obvious: true
 generic: System monitor
 description:

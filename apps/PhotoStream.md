@@ -6,7 +6,7 @@ created: 2015-01-14
 updated: 2015-04-28
 
 title: PhotoStream
-permalink: /PhotoStream
+permalink: /PhotoStream/
 title_obvious: false
 generic: Instagram client
 description:

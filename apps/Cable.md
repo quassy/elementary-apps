@@ -6,7 +6,7 @@ created: 2015-01-01
 updated: 2015-03-21
 
 title: Cable
-permalink: /Cable
+permalink: /Cable/
 title_obvious: false
 generic: IRC client
 description: 'A fabulous IRC client, freely available in terms of free beer and free speech.'

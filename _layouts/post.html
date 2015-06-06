@@ -22,9 +22,12 @@ layout: default
   <footer>
 
     <div class="date">
-      Updated on {{ post.date | date: "%e %B %Y" }}
-    </div>
-
+      {% if post.created != post.updated %}
+        Published {{ post.created }}, last updated {{ post.updated }}
+      {% else %}
+        Published {{ post.created }}
+      {% endif %}
+    </div>  
 
     {% if post.category %}
       {% for site_category in site.data.categories %}

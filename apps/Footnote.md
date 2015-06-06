@@ -6,7 +6,7 @@ created: 2015-01-13
 updated: 2015-04-28
 
 title: Footnote
-permalink: /Footnote
+permalink: /Footnote/
 title_obvious: false
 generic: Note keeping
 description: A beautiful, fast, and simple note taking app in the style of elementary.

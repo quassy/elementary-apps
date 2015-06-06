@@ -6,7 +6,7 @@ created: 2015-01-07
 updated: 2015-05-04
 
 title: GCleaner
-permalink: /GCleaner
+permalink: /GCleaner/
 title_obvious: false
 generic: Maintenance
 description:

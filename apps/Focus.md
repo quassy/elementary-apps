@@ -6,7 +6,7 @@ created: 2015-01-14
 updated: 2015-04-28
 
 title: Focus
-permalink: /Focus
+permalink: /Focus/
 title_obvious: false
 generic: Task management
 description:

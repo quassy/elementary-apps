@@ -6,7 +6,7 @@ created: 2014-04-08
 updated: 2015-03-21
 
 title: Vocal
-permalink: /Vocal
+permalink: /Vocal/
 title_obvious: false
 generic: Podcast manager
 description: 'A podcast client for the modern free desktop. It is designed to be simple to use and packed full of all the features you&#39;ve come to expect – plus a few extras. We think you will love it.'

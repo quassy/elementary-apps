@@ -6,7 +6,7 @@ created: 2015-03-17
 updated: 2015-04-28
 
 title: eUtility
-permalink: /eUtility
+permalink: /eUtility/
 title_obvious: false
 generic: Switchboard plug
 description: It makes user life easier.

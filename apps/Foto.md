@@ -6,7 +6,7 @@ created: 2014-10-20
 updated: 2015-03-21
 
 title: Foto
-permalink: /Foto
+permalink: /Foto/
 title_obvious: true
 generic: Photo manager
 description: 'Fast, simple, beautiful and free – a very simple and native image viewer and album manager. The goal is to offer an excellent UX and usability.'
