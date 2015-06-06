@@ -1,11 +1,8 @@
 - slug: App
   name: App
-  color: '#3498db'
   
 - slug: Art
   name: Art
-  color: '#1abc9c'
   
 - slug: Other
   name: Other
-  color: '#333'

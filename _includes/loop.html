@@ -3,8 +3,8 @@
   <header>
     <a href="{{ site.baseurl }}{{ post.url }}">
       <h1 id="{{ post.title }}">{{ post.title }}</h1>
-    </a>
     {% if post.generic %}<p>{{ post.generic }}</p>{% endif %}
+    </a>
   </header>      
 
   <div class="entry">
@@ -17,7 +17,11 @@
 
   <p>
     <div class="date">
-      Updated on {{ post.date | date: "%e %B %Y" }}
+      {% if post.created != post.updated %}
+        Published {{ post.created }}, last updated {{ post.updated }}
+      {% else %}
+        Published {{ post.created }}
+      {% endif %}
     </div>
     <a href="{{ site.baseurl }}{{ post.url }}">
       Read more...

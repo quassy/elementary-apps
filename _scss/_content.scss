@@ -125,7 +125,7 @@ th:last-child {
 }
 
 .post { 
-  header {
+  header, header a {
     display: flex;
     justify-content: center;
   }
@@ -135,6 +135,9 @@ th:last-child {
     padding-top: 10px;
     padding-left: 15px;
     color: #666;
+  }
+  footer {
+    margin: 15px 0;
   }
 
   .comments {
