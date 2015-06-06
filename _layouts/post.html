@@ -42,7 +42,9 @@ layout: default
       {% assign category_content = 'Posted in no particular category.' %}
     {% endif %}
 
-    <div>{{ category_content }}
+    <div>
+    
+    <a style="font-weight:bold" href="https://github.com/quassy/elementary-apps/edit/gh-pages/apps/{{ post.title }}.md">Improve this entry on GitHub!</a>
 
     {% if post.tags.size > 0 %}
       {% capture tags_content %}Tagged with {% endcapture %}
@@ -53,7 +55,7 @@ layout: default
           {% endif %}
         {% endfor %}
         {% if tag %}
-          {% capture tags_content_temp %}{{ tags_content }}<a href="{{ site.baseurl }}/tag/{{ tag.slug }}/">{{ tag.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
+          {% capture tags_content_temp %}{{ tags_content }}<a href="{{ site.baseurl }}/tag/{{ tag.slug }}/">{{ tag.name }}</a>{% if forloop.last == false %}, {% endif %}.{% endcapture %}
           {% assign tags_content = tags_content_temp %}
         {% endif %}
       {% endfor %}

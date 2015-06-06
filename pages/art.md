@@ -17,5 +17,5 @@ Name | Info | Developer
 [**Wallpapers (DB)**](https://www.dropbox.com/sh/79552p64tto7wbc/MSPgrgWfYa) ([GD](https://drive.google.com/folderview?id=0B4KUARZUQ-n_X1FrY29XVXpHUTQ&usp=sharing)) | Wallpapers | [Brian Bentsen](https://plus.google.com/109395049570451231471)
 
 <p>
-  We currently have {{ site.posts | size }} <a href="{{ site.baseurl }}/apps/">apps</a> and pieces of <a href="{{ site.baseurl }}/art/">art</a> in our database. Found something fancy? <a href="https://github.com/quassy/elementary-apps/issues/new">Tell us at GitHub.</a>
+  We currently have {{ site.pages | size }} <a href="{{ site.baseurl }}/apps/">apps</a> and pieces of <a href="{{ site.baseurl }}/art/">art</a> in our database. Found something fancy? <a href="https://github.com/quassy/elementary-apps/issues/new">Tell us at GitHub.</a>
 </p>
