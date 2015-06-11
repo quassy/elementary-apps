@@ -21,7 +21,7 @@ Name | Generic | Info
 *Indicator Standby Timer* | Indicator | An indicator that allows the user to set X minutes after which the system automatically goes into standby
 [Lingo](https://launchpad.net/lingo-dictionary) (abandoned) | Dictionary App | Official elementary application. Integration with a web-based dictionary like [dict.cc](http://dict.cc) could help with having big and updated database.
 *Messenger* | Multi-messenger | Multi-messenger, basically Pidgin (pretty good) only with native integration (GTK3, headerbars, ...)
-*Office Suite* | Office Suite | By popular demand, but probably an undertaking as big as the whole elementary project. [Writer]({{ site.baseurl }}Writer/) is the only currently existing app that could be part of this, a spreadsheet and presentation app only exist as mockups so far. 
+*Office Suite* | Office Suite | By popular demand, but probably an undertaking as big as the whole elementary project. [Writer]({{ site.baseurl }}/Writer/) is the only currently existing app that could be part of this, a spreadsheet and presentation app only exist as mockups so far. 
 [PDF-Shuffler](http://sourceforge.net/projects/pdfshuffler/) (abandoned since 09.2013) | PDF Management | GUI to merge multiple PDF files into one document. 
 *Process Viewer* | Process viewer | There is no easy way to view (and sometimes kill) the running processes. Being able to view the CPU and memory load would be also nice
 *VC Client* | Client for git (& others?) | Maybe something like [described in this blog entry](http://tonsky.me/blog/reinventing-git-interface/), or GitHub for Windows
