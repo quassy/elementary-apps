@@ -140,6 +140,18 @@ th:last-child {
     margin: 15px 0;
   }
 
+  .terminal {
+    display: flex;
+    background: $base03;
+    color: $base3;
+    justify-content: left;
+    align-items: center;
+    
+    .mega-octicon {
+        margin:0 8px;
+    }
+  }
+  
   .comments {
     margin-top: 10px;
   }
