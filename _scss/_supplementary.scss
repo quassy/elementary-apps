@@ -7,10 +7,6 @@ html {
 }
 
 body {
-  background-color: #fff;
-  background-image: url("http://elementaryos.org/img/nav-bg.png");
-  background-repeat: no-repeat;
-  background-position: center -30px;
   background: #fff;
   font: 14px/1.5 $font_body;
   color: $color_body;
@@ -126,7 +122,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $darkGrey;
     }
   }
 }

@@ -32,6 +32,6 @@ installation:
     info:
     - version: 0.3
       repository: 'ppa:justsomedood/justsomeelementary'
-      package:
+      package: atlas-maps
       type: stable
 ---

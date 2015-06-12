@@ -22,6 +22,7 @@ layout: default
   <footer>
 
     <div class="date">
+      <span class="octicon octicon-calendar"></span>
       {% if post.created != post.updated %}
         Published {{ post.created }}, last updated {{ post.updated }}
       {% else %}
@@ -44,7 +45,7 @@ layout: default
 
     <div>
     
-    <a style="font-weight:bold" href="https://github.com/quassy/elementary-apps/edit/gh-pages/apps/{{ post.title }}.md">Improve this entry on GitHub!</a>
+    <a style="font-weight:bold" href="https://github.com/quassy/elementary-apps/edit/gh-pages/apps/{{ post.title }}.md"><span class="octicon octicon-pencil"></span> Improve this entry on GitHub!</a>
 
     {% if post.tags.size > 0 %}
       {% capture tags_content %}Tagged with {% endcapture %}
@@ -55,7 +56,7 @@ layout: default
           {% endif %}
         {% endfor %}
         {% if tag %}
-          {% capture tags_content_temp %}{{ tags_content }}<a href="{{ site.baseurl }}/tag/{{ tag.slug }}/">{{ tag.name }}</a>{% if forloop.last == false %}, {% endif %}.{% endcapture %}
+          {% capture tags_content_temp %}{{ tags_content }}<a href="{{ site.baseurl }}/tag/{{ tag.slug }}/">{{ tag.name }}</a>{% if forloop.last == false %}, {% else %}. {% endif %}{% endcapture %}
           {% assign tags_content = tags_content_temp %}
         {% endif %}
       {% endfor %}
