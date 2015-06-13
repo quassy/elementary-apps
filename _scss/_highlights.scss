@@ -5,9 +5,15 @@
 
 .highlight { 
   background-color: $base02;
-  color: $base2;
+  color: $white;
   padding: 5px 10px;
   margin: 15px 0;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  &:first-child {
+    margin:8px;
+  }
 }
 
 .highlight pre {

@@ -7,12 +7,7 @@
       <p>Add a {{ dist.type }} repository for {{ dist.system }} version {{ repo.version }} to install the software, by entering the following commands in a terminal:</p>
       <div class="highlight">
         <span class="mega-octicon octicon-terminal"></span>
-        <pre class="sh"><code>sudo apt-add-repository {{ repo.repository }} && sudo apt-get update
-sudo apt-get install {{ repo.package }}</code></pre>
-      </div>
-      <div style="display:flex;background:#073642;color:#fff;justify-content:left;align-items:center;">
-          <span class="mega-octicon octicon-terminal" style="margin:8px"></span>
-          <pre><code>sudo apt-add-repository {{ repo.repository }} && sudo apt-get update
+        <pre><code>sudo apt-add-repository {{ repo.repository }} && sudo apt-get update
 sudo apt-get install {{ repo.package }}</code></pre>
       </div>
     {% endfor %}

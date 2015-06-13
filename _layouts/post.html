@@ -45,7 +45,7 @@ layout: default
 
     <div>
     
-    <a style="font-weight:bold" href="https://github.com/quassy/elementary-apps/edit/gh-pages/apps/{{ post.title }}.md"><span class="octicon octicon-pencil"></span> Improve this entry on GitHub!</a>
+    <a class="b" href="https://github.com/quassy/elementary-apps/edit/gh-pages/{{ page.path }}"><span class="octicon octicon-pencil"></span> Improve this entry on GitHub!</a>
 
     {% if post.tags.size > 0 %}
       {% capture tags_content %}Tagged with {% endcapture %}
@@ -64,7 +64,7 @@ layout: default
       {% assign tags_content = '' %}
     {% endif %}
 
-    {{ tags_content }}</div>
+    </div>
 
   </footer>
 

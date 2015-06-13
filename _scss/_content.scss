@@ -64,12 +64,16 @@ ul ul, ol ul {
   list-style-type: circle;
 }
 
-em, i {
+em, i, .i {
   font-style: italic;
 }
 
-strong, b {
+strong, b, .b {
   font-weight: bold;
+}
+
+u, .u {
+  text-decoration: underline;
 }
 
 img {
