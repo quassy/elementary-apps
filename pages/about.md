@@ -12,11 +12,10 @@ Started at [/r/elementaryos](http://www.reddit.com/r/elementaryos/comments/2r0xe
 
 ## Blogroll
 
+* [LME Linux](http://lmelinux.net/#2015-06-07)
 * [fuck yeah, elementary OS!](http://fuckyeah-elementaryos.tumblr.com/#2015-05-04)
 * [elementary now](http://www.elementarynow.com/#2015-04-18)
 * [elementary OS Snippets](http://eos-snippets.blogspot.com/#2015-04-17)
-* [WOW! elementary!](http://wowelementary.com/#2015-04-13)
-* [LME Linux](http://lmelinux.net/#2015-04-08)
 * [Made for elementary](http://madeforelementary.tumblr.com/#2015-02-14)
 
 ## Other elementary links

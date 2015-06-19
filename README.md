@@ -14,9 +14,14 @@ Feel free to ask, discuss and critize in our [Gitter chat](https://gitter.im/qua
 
 ### App
 
-Check the [template file](https://github.com/quassy/elementary-apps/blob/gh-pages/_posts/1970-01-01-Template.md) in _posts. To add an app name the file accordingly and fill in as much info as you know. 
+Check the [template file](https://github.com/quassy/elementary-apps/blob/gh-pages/apps/.Template.md). To add an app name the file accordingly and fill in as much info as you know. 
 
-Please mind, that `web` requires a whole url including `http(s)://`, while all specific links only require the part after the domain. So `https://github.com/lorem` becomes `github: lorem`.
+Please mind, that `web` requires a whole url including `http(s)://` (https preferred), while all specific links only require the part after the domain. So `https://github.com/lorem` becomes `github: lorem`.
+
+Guidelines:
+ 
+ * Apps should be targeted towards elementary and written in GTK3, exceptions may be made
+ * Projects which have stopped working in the current release and have not seen updates in 4-6 months will be hidden by `published: false`
 
 ### Screenshot
 
@@ -30,4 +35,6 @@ Guidelines:
 
 ## Credits
 
-Backend based on [Jekyll Now](https://github.com/barryclark/jekyll-now), [Minddust](http://www.minddust.com/post/tags-and-categories-on-github-pages/), [Octicons](octicons.github.com/).
+ * Backend originally based on [Jekyll Now](https://github.com/barryclark/jekyll-now)
+ * [Octicons](octicons.github.com/)
+ * Google Webfonts for Raleway (headings), Open Sans (body), Source Code Pro (monospace)
