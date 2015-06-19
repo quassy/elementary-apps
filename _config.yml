@@ -1,7 +1,3 @@
-#
-# This file contains configuration flags to customize your site
-#
-
 # Name of your site (displayed in the header)
 name: elementary apps
 
@@ -11,10 +7,6 @@ description_html: 3rd party <a href="http://elementary.io">elementary</a> softwa
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /elementary-apps/img/apps-logo_4x64.png
-
-#
-# Flags below are optional
-#
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -72,6 +64,6 @@ gems:
 
 # Exclude these files from your production _site
 exclude:
-    - Gemfile
-    - Gemfile.lock
-    - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore

@@ -13,7 +13,7 @@ description:
 license: GPL v3
 
 authors:
-  - name: Stefan Ric *"cybre"*
+  - name: Stefan Ric "cybre"
     url: https://github.com/cybre
     mail: 'stfric369@gmail.com'
 

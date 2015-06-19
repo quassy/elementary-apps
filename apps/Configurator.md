@@ -9,7 +9,7 @@ title: Configurator
 permalink: /Configurator/
 title_obvious: false
 generic: Config editor
-description: A stylish replacement for the dconf-editor that helps the user to configure the hidden settings of his system. Thanks to a lot of input-helpers, code examples and an event-logger the use of dconf will get easier than ever before.
+description: A stylish and easy to access way to configure hidden system settings. Input-helpers, code examples and an event-logger make the use of dconf will get easier than ever before.
 license: GPL v3
 
 authors:
