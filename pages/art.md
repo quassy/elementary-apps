@@ -9,7 +9,7 @@ Name | Info | Developer
 [**Atom** elementary Light UI](https://atom.io/themes/elementary-light-ui) | Atom theme | [Cassidy James](https://atom.io/users/cassidyjames)
 **Chrome** [Freya Theme](https://chrome.google.com/webstore/detail/freya-theme-for-google-ch/nofpaaefcomkhdkeihhnonlmhajfadgd) & [Scrollbars](https://chrome.google.com/webstore/detail/elementary-freya-scrollba/dddhhloahgkhcaipmkfjngdalegmcomm) | Chrome extension | [Lewis Goddard](https://plus.google.com/105729291739660012806)
 [**Chrome** Freya Theme](https://chrome.google.com/webstore/detail/elementary-os-03-freya-ch/faohdknlfnjkeaphndahbpabllhaodnl) | Chrome extension | [Dyson Simmons](https://github.com/dyson)
-[**elementary+ Icon Theme**](https://github.com/mank319/elementaryPlus) (& indicator integration) | Icons for 3rd party apps | [Manuel Kehl](https://github.com/mank319), [Stefan Ric](https://github.com/cybre)
+[**elementary+ Icon Theme**](https://github.com/mank319/elementaryPlus) (& indicator integration) | Icons for 3rd party apps | [Manuel Kehl](https://github.com/mank319), [Stefan Ric](https://github.com/cybre), [Martin Peter](https://github.com/quassy)
 [**Firefox**](https://addons.mozilla.org/en-US/firefox/addon/elementary-firefox/) | Firefox add-on | [*zeeeeee*](http://zeeeeee.deviantart.com/)
 [**Firefox** headerbar](https://github.com/chpii/Headerbar) | Firefox add-ons | [Svitozar Cherepii](https://github.com/chpii)
 [**Sublime Text**](https://github.com/samuelrafo/elementary) ([DeviantArt](http://srff.deviantart.com/art/Elementary-for-Sublime-Text-updated-393125257)) | Sublime theme | [Samuel Rafo](https://github.com/samuelrafo)
