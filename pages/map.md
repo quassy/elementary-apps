@@ -29,9 +29,9 @@ permalink: /map/
       }
     ] // end of markers
     
-    for (marker in markers) {
-        L.marker(marker.pos).addTo(map)
-            .bindPopup(marker.name)       
+    for (m of markers) {
+        L.marker(m.pos).addTo(map)
+            .bindPopup(m.name);
     }
 
     // add a marker in the given location, attach some popup content to it and open the popup
