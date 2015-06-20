@@ -4,6 +4,7 @@ title: developer map
 permalink: /map/
 ---
 
+<div id="map" style="height:500px;width:100%"></div>
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
 <script src="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
 <script style="text/javascript">
@@ -15,12 +16,22 @@ permalink: /map/
         attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
     
-    var markers = require('./pages/map.json');
+    var markers = [
+      {
+        'name': 'Daniel Fore',
+        'desc': 'elementary co-founder',
+        'pos': [51.5, -0.09]
+      },
+      {
+        'name': 'Cassidy James Blaede',
+        'desc': 'elementary co-founder',
+        'pos': [51.5, 0.5]
+      }
+    ] // end of markers
     
     for (marker in markers) {
-        L.marker(marker['pos']).addTo(map)
-            .bindPopup(marker['name'])
-            .openPopup();        
+        L.marker(marker.pos).addTo(map)
+            .bindPopup(marker.name)       
     }
 
     // add a marker in the given location, attach some popup content to it and open the popup
@@ -28,4 +39,3 @@ permalink: /map/
         .bindPopup('A pretty CSS3 popup. <br/> Easily customizable.')
         .openPopup();
 </script>
-<div id="map" style="height:500px;width:100%"></div>
