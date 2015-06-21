@@ -196,6 +196,6 @@ var markers = [ // start markers
 ]; // end of markers
 
 for (m of markers) {
-    L.marker(m.pos.revers()).addTo(map)
+    L.marker(m.pos.reverse()).addTo(map)
         .bindPopup(m.name);
 }
