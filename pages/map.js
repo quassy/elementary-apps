@@ -1,5 +1,5 @@
 // create a map in the "map" div, set the view to a given place and zoom
-var map = L.map('map').setView([0.0,0.0], 1);
+var map = L.map('map').setView([0.0,0.0], 2);
 
 // add an OpenStreetMap tile layer
 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
@@ -196,6 +196,6 @@ var markers = [ // start markers
 ]; // end of markers
 
 for (m of markers) {
-    L.marker(m.pos).addTo(map)
+    L.marker(m.pos.revers()).addTo(map)
         .bindPopup(m.name);
 }
