@@ -2,8 +2,10 @@
 var map = L.map('map').setView([0.0,0.0], 2);
 
 // add an OpenStreetMap tile layer
-L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    attribution: '<a href="http://osm.org/copyright">OpenStreetMap</a>'
+// http://{s}.tile.osm.org/{z}/{x}/{y}.png
+L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
+    fullscreenControl: true,
+    attribution: '<a href="http://osm.org/copyright">OpenStreetMap</a>, <a href="http://cartodb.com/attributions">CartoDB</a>'
 }).addTo(map);
 
 /*
