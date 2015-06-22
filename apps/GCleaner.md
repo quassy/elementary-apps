@@ -18,7 +18,7 @@ authors:
 
 links:
   - type: Launchpad
-    url: 'https://launchpad.net/gcleaner'
+    url: 'gcleaner'
 
 screenshots:
   - Squeegee.png
