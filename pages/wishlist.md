@@ -25,5 +25,6 @@ Name | Generic | Info
 [PDF-Shuffler](http://sourceforge.net/projects/pdfshuffler/) (abandoned since 09.2013) | PDF Management | GUI to merge multiple PDF files into one document. 
 *Process Viewer* | Process viewer | There is no easy way to view (and sometimes kill) the running processes. Being able to view the CPU and memory load would be also nice
 *VC Client* | Client for git (& others?) | Maybe something like [described in this blog entry](http://tonsky.me/blog/reinventing-git-interface/), or GitHub for Windows
+*Books* | .epub Reader | There's a demand for a dedicated .epub reader for elementary OS (and a book store if possible). [GNOME Books](https://github.com/martamilakovic/gnome-books) might be a useful resource. [Relevant Launchpad bug](https://bugs.launchpad.net/elementaryos/+bug/1183708).
 
 If there is another app for elementary you are missing desperately, feel free to [file an issue at GitHub](https://github.com/quassy/elementary-apps/issues/new) to get it added to the list (or *just* develop it yourself). 
