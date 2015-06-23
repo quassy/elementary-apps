@@ -4,6 +4,8 @@
     {% assign prefix = "https://launchpad.net/" %}
   {% when "GitHub" %}
     {% assign prefix = "https://github.com/" %}
+  {% when "Twitter" %}
+    {% assign prefix = "https://twitter.com/" %}
   {% when "Google+" %}
     {% assign prefix = "https://plus.google.com/" %}
   {% when "Bitbucket" %}
@@ -16,5 +18,5 @@
     {% assign prefix = nil %}
   {% endcase %}
   <a href="{{ prefix }}{{ link.url }}">
-    {% if link.name %}{{ link.name }}{% else %}{{ link.type }}{% endif %}</a>{% if forloop.last == false %}, {% endif %}  
+    {% if link.name %}{{ link.name }}{% else %}{{ link.type }}{% endif %}</a>{% if forloop.last == false %}, {% endif %}
 {% endfor %}
