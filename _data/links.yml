@@ -2,6 +2,10 @@
   - name: Web
     url: ""
 
+- bitbucket:
+  - name: Bitbucket
+    url: "https://bitbucket.org/"  
+    
 - launchpad:
   - name: Launchpad
     url: "https://launchpad.net/"
@@ -13,3 +17,7 @@
 - googleplus:
   - name: Google+
     url: "https://plus.google.com/"
+    
+- twitter:
+  - name: Twitter
+    url: "https://twitter.com/"

@@ -18,9 +18,19 @@ Started at [/r/elementaryos](http://www.reddit.com/r/elementaryos/comments/2r0xe
 * [elementary OS Snippets](http://eos-snippets.blogspot.com/#2015-04-17)
 * [Made for elementary](http://madeforelementary.tumblr.com/#2015-02-14)
 
+## Community sites
+
+* [Google+](https://plus.google.com/communities/104613975513761463450)
+* [Reddit](https://www.reddit.com/r/elementaryos)
+* [elementary forums](https://elementaryforums.com) (inofficial)
+
 ## Other elementary links
 
-* [Official elementary blog](http://blog.elementary.io/#2015-04-29)
-* [designs and mockups on deviantArt](http://elementaryos.deviantart.com/)
-* [official developers starting point](http://elementary.io/developer)
+* [elementary blog](http://blog.elementary.io/#2015-04-29)
 * [Launchpad project](https://launchpad.net/elementary/)
+* [GitHub organisation](https://github.com/elementary)
+* [Patreon](https://www.patreon.com/elementary)
+* [Bountysource](https://www.bountysource.com/teams/elementary/bounties)
+* [deviantArt](http://elementaryos.deviantart.com/) (designs and mockups)
+* [Google+](https://plus.google.com/114635553671833442612)
+* [Twitter](https://twitter.com/elementary)
