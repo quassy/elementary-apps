@@ -5,8 +5,8 @@ category: app
 created: 2015-06-19
 updated: 2015-06-19
 
-permalink: /KyIRC/
-title: KyIRC
+permalink: /KyRC/
+title: KyRC
 title_obvious: false
 generic: IRC client
 description:  An IRC client designed for elementary OS
