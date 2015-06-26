@@ -12,6 +12,7 @@ Name | Info | Developer
 [**elementary+ Icon Theme**](https://github.com/mank319/elementaryPlus) (& indicator integration) | Icons for 3rd party apps | [Manuel Kehl](https://github.com/mank319), [Stefan Ric](https://github.com/cybre), [Martin *"quassy"*](https://github.com/quassy)
 [**Firefox**](https://addons.mozilla.org/en-US/firefox/addon/elementary-firefox/) | Firefox add-on | [*zeeeeee*](http://zeeeeee.deviantart.com/)
 [**Firefox** headerbar](https://github.com/chpii/Headerbar) | Firefox add-ons | [Svitozar Cherepii](https://github.com/chpii)
+[**Grub2** Radiano Theme](https://github.com/Jguer/Radiano-Grub-Theme) | elementary inspired Grub theme | [John Guerreiro](https://plus.google.com/116260608900119852444/)
 [**Sublime Text**](https://github.com/samuelrafo/elementary) ([DeviantArt](http://srff.deviantart.com/art/Elementary-for-Sublime-Text-updated-393125257)) | Sublime theme | [Samuel Rafo](https://github.com/samuelrafo)
 [**Thunderbird**](https://github.com/alxlit/elementary-thunderbird) ([MOZ](https://addons.mozilla.org/de/thunderbird/addon/elementary-thunderbird/?src=search), inactive?)| Thunderbird add-on | [*alxlit*](https://github.com/alxlit)
 [**Wallpapers (DB)**](https://www.dropbox.com/sh/79552p64tto7wbc/MSPgrgWfYa) ([GD](https://drive.google.com/folderview?id=0B4KUARZUQ-n_X1FrY29XVXpHUTQ&usp=sharing)) | Wallpapers | [Brian Bentsen](https://plus.google.com/109395049570451231471)
