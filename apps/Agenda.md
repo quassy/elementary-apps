@@ -24,6 +24,9 @@ links:
   - type: Launchpad
     url: agenda-tasks
 
+screenshots:
+  - Agenta.png
+
 installation:
   - system: elementary
     info:

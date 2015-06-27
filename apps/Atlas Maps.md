@@ -27,6 +27,9 @@ links:
   - type: Build
     url: 'http://bazaar.launchpad.net/~sschuhmann/atlas-maps/trunk/view/head:/INSTALL'
 
+screenshots:
+  - Atlas Maps.png
+
 installation:
   - system: elementary
     info:

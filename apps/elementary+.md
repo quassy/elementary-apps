@@ -29,6 +29,9 @@ links:
   - type: Authors
     url: 'https://github.com/mank319/elementaryPlus/blob/master/CREDIT.csv'
 
+screenshots:
+  - elementary+.png
+
 installation:
   - system: elementary
     info:

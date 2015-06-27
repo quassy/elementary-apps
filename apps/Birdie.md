@@ -43,6 +43,9 @@ links:
   - type: Authors
     url: 'https://github.com/birdieapp/birdie/blob/master/AUTHORS.in'
 
+screenshots:
+  - Birdie.png
+
 installation:
   - system: elementary
     info:

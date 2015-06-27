@@ -21,4 +21,7 @@ authors:
 links:
   - type: Launchpad
     url: writer
+
+screenshots:
+  - Writer.png
 ---

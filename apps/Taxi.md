@@ -26,6 +26,9 @@ links:
   - type: License
     url: 'http://bazaar.launchpad.net/~khampal/taxi/trunk/view/head:/LICENSE'
 
+screenshots:
+  - Taxi.png
+
 installation:
   - system: elementary
     info:

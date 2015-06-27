@@ -22,6 +22,9 @@ links:
   - type: GitHub
     url: 'baedert/corebird'
 
+screenshots:
+  - Corebird.png
+
 installation:
   - system: elementary
     info:
