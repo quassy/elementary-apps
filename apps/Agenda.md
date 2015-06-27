@@ -25,7 +25,7 @@ links:
     url: agenda-tasks
 
 screenshots:
-  - Agenta.png
+  - Agenda.png
 
 installation:
   - system: elementary

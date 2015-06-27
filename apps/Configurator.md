@@ -25,6 +25,9 @@ links:
   - type: Authors
     url: http://bazaar.launchpad.net/~l-admin-3/configurator/trunk/view/head:/AUTHORS
 
+screenshots:
+  - Configurator.png
+
 tags:
   - GTK3
   - Vala
