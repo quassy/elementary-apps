@@ -20,6 +20,9 @@ links:
   - type: Launchpad
     url: feedreader
 
+screenshots:
+  - FeedReader.png
+
 installation:
   - system: elementary
     info:

@@ -10,16 +10,17 @@ Browser:
 Music Player:
   Default: Noise
   Recommended:
-    - 
+    - Rhythmbox
   Other:
+    - Lollypop
     - Quodlibet
     
-Email client:
+Mail Client:
   Default: Geary
   Recommended:
     - Thunderbird
   Other: 
-    - Web (Gmail, Yahoo)
+    - Webmail (Gmail, Yahoo)
   
 Image Viewer:
   Default: Shotwell
@@ -38,7 +39,16 @@ Text Editor:
   Recommended:
     - Gedit
   Other:
+    - nano
     - vim
+  
+IDE:
+  Default: 
+  Recommended:
+    - Atom
+  Other:
+    - Brackets
+    - Sublime Text
   
 Video Player:
   Default: Audience
@@ -50,9 +60,10 @@ Video Player:
 File Browser:
   Default: Pantheon Files
   Recommended: 
-    - Nemo
+    - Marlin
     - Nautilus
   Other:
+    - Nemo
   
 Office suite:
   Default: false
@@ -61,14 +72,16 @@ Office suite:
     - Apache OpenOffice
   Other:
     - WordPerfect Suite
+    - OnlyOffice (Web)
     - Microsoft Office (Wine)
     
 Instant messenger:
   Default: false
   Recommended:
     - Pidgin
-  Other
+  Other:
     - Empathy
+    - Web (Messenger, WhatsApp, Hangouts)
     
 News reader:
   Default: false
@@ -77,14 +90,16 @@ News reader:
   Other:
     - Web (Feedly, tt-rss)
     
-Note keeping
+Note keeping:
   Default: false
   Recommended:
   Other:
     - Web (Google Keep, Evernote)
     
-Graphics editor
+Graphics editor:
   Default: false
   Recommended: 
     - GIMP
+    - Inkscape
   Other: 
+    - Krita

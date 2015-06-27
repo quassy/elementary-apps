@@ -20,6 +20,9 @@ links:
   - type: GitHub
     url: voldyman/MarkMyWords
 
+screenshots:
+  - MarkMyWords.png
+
 installation:
   - system: elementary
     info:

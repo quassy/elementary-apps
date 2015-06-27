@@ -5,8 +5,8 @@ category: app
 created: 2015-01-07
 updated: 2015-04-28
 
-title: Elementary Tweaks
-permalink: /Elementary Tweaks/
+title: elementary Tweaks
+permalink: /elementary Tweaks/
 title_obvious: false
 generic: Customization
 description: 'System tweaks for elementary OS Freya, organized as a Switchboard plugin.'
@@ -25,6 +25,9 @@ authors:
 links:
   - type: Launchpad
     url: elementary-tweaks
+
+screenshots:
+  - elementary Tweaks.png
 
 installation:
   - system: elementary

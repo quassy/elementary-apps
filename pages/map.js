@@ -10,7 +10,9 @@ L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x
 
 /*
     Based off https://www.google.com/maps/d/edit?mid=zLqMqL5D9Kik.kCCCFPX-oBT0
-    This is a map of the general locations of the elementary contributors.  To some, anonymity is paramount.  If that's the case, just put a placemark near your approximate location (i.e. nearest major city).
+    This is a map of the general locations of the elementary contributors.  To 
+    some, anonymity is paramount.  If that's the case, just put a placemark near 
+    your approximate location (i.e. nearest major city).
 */
 
 var markers = [ // start markers

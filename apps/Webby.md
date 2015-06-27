@@ -23,6 +23,9 @@ links:
   - type: Build
     url: "http://bazaar.launchpad.net/~erasmo-marin/webby-browser/trunk/view/head:/INSTALL"
 
+screenshots:
+  - Webby.png
+
 installation:
   - system: elementary OS
     info:
