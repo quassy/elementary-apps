@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Webby
 permalink: /Webby/
 title_obvious: false
-generic: Web app browser
+generic: web app browser
 description: Webby allows you to use Facebook, Youtube or any web app as a regular desktop, fully integrated into your system and using a proper launcher in your application menu.
 
 license: GPL v3

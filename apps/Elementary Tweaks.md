@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: elementary Tweaks
 permalink: /elementary Tweaks/
 title_obvious: false
-generic: Customization
+generic: customization
 description: 'System tweaks for elementary OS Freya, organized as a Switchboard plugin.'
 license: GPL v3
 

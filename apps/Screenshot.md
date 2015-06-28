@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Screenshot
 permalink: /Screenshot/
 title_obvious: true
-generic: Screenshot tool
+generic: screenshot tool
 description: 'A simple screen capture tool made for elementary OS'
 license: GPL v3
 

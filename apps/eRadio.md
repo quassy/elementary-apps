@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: eRadio
 permalink: /eRadio/
 title_obvious: false
-generic: Audio streaming
+generic: audio streaming
 description: 'Create a list of stations by providing their streaming url and then listen to them.'
 license: GPL v3
 

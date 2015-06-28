@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Synopsis
 permalink: /Synopsis/
 title_obvious: false
-generic: Archive utility
+generic: archive utility
 description: 'A simple and concise archive utility.'
 license: GPL v2
 

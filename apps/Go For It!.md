@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Go For It!
 permalink: /Go For It!/
 title_obvious: false
-generic: Task management
+generic: task management
 description: 'A simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.'
 license: GPL v3
 

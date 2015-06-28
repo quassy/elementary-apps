@@ -8,7 +8,7 @@ updated: 2015-03-21
 title: Calculator
 permalink: /Calculator/
 title_obvious: true
-generic: Calculator
+generic: calculator
 description: 'A fast and beautiful calculator. The UI is rather simple, but scientific functions and mathematical constants can be typed in. It has a history functionality for the current session and clipboard support.'
 license: GPL v3
 

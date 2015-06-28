@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: NaSC
 permalink: /NaSC/
 title_obvious: false
-generic: Calculator
+generic: calculator
 description: 'Do maths like a normal person. Type whatever you want and the app smartly figures it out. You can even plug those answers into future equations and if that answer changes, so do the equations.'
 license: GPL v3
 
@@ -22,7 +22,7 @@ links:
   - type: Launchpad
     url: nasc
 
-screenshots
+screenshots:
   - NaSC.png
 
 installation:

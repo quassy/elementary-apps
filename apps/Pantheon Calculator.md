@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Pantheon Calculator
 permalink: /Pantheon Calculator/
 title_obvious: true
-generic: Calculator
+generic: calculator
 description: 'The native calculator starting with elementary OS 0.3 Freya. It integrates perfectly into the elementary eco system.'
 license: GPL v3
 

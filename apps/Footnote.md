@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Footnote
 permalink: /Footnote/
 title_obvious: false
-generic: Note keeping
+generic: note keeping
 description: A beautiful, fast, and simple note taking app in the style of elementary.
 license: GPL v3
 

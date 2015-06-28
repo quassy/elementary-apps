@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Power Installer
 permalink: /Power Installer/
 title_obvious: false
-generic: One-click installer
+generic: one-click installer
 description:
 license: GPL v3
 

@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Currency
 permalink: /Currency/
 title_obvious: true
-generic: Currency converter
+generic: currency converter
 description:
 license: GPL v3
 

@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: eUtility
 permalink: /eUtility/
 title_obvious: false
-generic: Switchboard plug
+generic: switchboard plug
 description: It makes user life easier.
 license: GPL v3
 

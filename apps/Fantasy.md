@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Fantasy
 permalink: /Fantasy/
 title_obvious: false
-generic: Book reader
+generic: book reader
 description:
 license: GPL v3
 

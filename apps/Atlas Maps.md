@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Atlas Maps
 permalink: /Atlas Maps/
 title_obvious: true
-generic: Map viewer
+generic: map viewer
 description: A map viewer for elementary OS
 license: GPL v3
 

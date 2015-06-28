@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: 'Poe.js'
 permalink: '/Poe.js/'
 title_obvious: false
-generic: Word processor
+generic: word processor
 description: 'A word processor built with HTML, CSS, and CoffeeScript. This application is following Writer Concept by spiceofdesign on DeviantArt.'
 license: 'GPL v3'
 

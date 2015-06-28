@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Lollypop
 permalink: /Lollypop/
 title_obvious: false
-generic: Music player
+generic: music player
 description: 'Lollypop is a GNOME music player.'
 license: GPL v3
 

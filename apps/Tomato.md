@@ -8,7 +8,7 @@ updated: 2015-06-25
 title: Tomato
 permalink: /Tomato/
 title_obvious: false
-generic: Timer
+generic: timer
 description: A simple pomodoro app designed for elementary OS.
 license: GPL v3
 

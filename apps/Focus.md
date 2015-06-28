@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: app
 category: app
 created: 2015-01-14
@@ -8,8 +8,8 @@ updated: 2015-04-28
 title: Focus
 permalink: /Focus/
 title_obvious: false
-generic: Task management
-description:
+generic: Timer
+description: 'Yet another timer for the Pomodoro technique'
 license: GPL v3
 
 authors:

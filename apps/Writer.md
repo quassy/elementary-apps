@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Writer
 permalink: /Writer/
 title_obvious: false
-generic: Word processor
+generic: word processor
 description: 'Writer aims to be a super-simple, lightweight, and integrated word processor.'
 license: MIT
 

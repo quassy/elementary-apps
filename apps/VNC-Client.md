@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: VNC-Client
 permalink: /VNC-Cient/
 title_obvious: true
-generic: Remote desktop client
+generic: remote desktop client
 description: 'An very light and neat VNC client for elementary OS.'
 license: GPL v3
 

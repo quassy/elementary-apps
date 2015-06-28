@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Translator
 permalink: /Translator/
 title_obvious: true
-generic: Translator
+generic: translator
 description: 'Translates a text side-by-side.'
 license: GPL v3
 

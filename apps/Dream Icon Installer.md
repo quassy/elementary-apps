@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Dream Icon Installer
 permalink: /Dream Icon Installer/
 title_obvious: true
-generic: Installer
+generic: installer
 description:
 license: GPL v3
 

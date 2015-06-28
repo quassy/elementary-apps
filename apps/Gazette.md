@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Gazette
 permalink: /Gazette/
 title_obvious: false
-generic: Desktop widget
+generic: desktop widget
 description: 'Gazette is a news service for your desktop. It supports Services and right now shows you the weather recently used files and global world news.'
 license: GPL v3
 

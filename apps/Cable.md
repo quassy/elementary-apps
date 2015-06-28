@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: app
 category: app
 created: 2015-01-01
@@ -36,8 +36,6 @@ links:
     url: 'https://kiwiirc.com/client/irc.freenode.net/?#cableIRC'
   - type: Build
     url: 'http://bazaar.launchpad.net/~julien-spautz/cable/trunk/view/head:/INSTALL'
-  - type: Readme
-    url:
   - type: License
     url: 'http://bazaar.launchpad.net/~julien-spautz/cable/trunk/view/head:/COPYING'
   - type: Authors
@@ -46,7 +44,7 @@ links:
 installation:
   - system: elementary
     info:
-    - version: 0.3
+    - version: 0.2
       repository: 'ppa:versable/elementary-update'
       package: cable
       type: unstable

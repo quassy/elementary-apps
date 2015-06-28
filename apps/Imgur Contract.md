@@ -8,7 +8,7 @@ updated: 2015-06-19
 title: Imgur Contract
 permalink: /Imgur Contract/
 title_obvious: false
-generic: Uploader extension
+generic: uploader extension
 description:
 license: GPL v3
 

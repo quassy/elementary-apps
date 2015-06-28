@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Gravel
 permalink: /Gravel/
 title_obvious: false
-generic: Comic reader
+generic: comic reader
 description:
 license:
 

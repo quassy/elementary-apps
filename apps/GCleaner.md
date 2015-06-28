@@ -8,7 +8,7 @@ updated: 2015-05-04
 title: GCleaner
 permalink: /GCleaner/
 title_obvious: false
-generic: Maintenance
+generic: maintenance
 description:
 license: GPL v3
 
@@ -23,12 +23,12 @@ links:
 screenshots:
   - Squeegee.png
 
-tags: 
+tags:
   - Vala
   - GTK3
   - Granite
   - Freya
-  
+
 redirect_from: '/Squeegee/'
 ---
 

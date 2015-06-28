@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Pomodoro
 permalink: /Pomodoro/
 title_obvious: false
-generic: Timer
+generic: timer
 description: 'A Pomodoro app for the elementary OS desktop'
 license: 'GPL v3'
 

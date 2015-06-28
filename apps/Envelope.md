@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Envelope
 permalink: /Envelope/
 title_obvious: false
-generic: Budget management
+generic: budget management
 description: 'A personal budget application that helps you maintain your personal budget by using the tried-and-true envelope system. You designate spending categories (envelopes) and distribute your monthly income into them.'
 license: GPL v3
 
@@ -21,6 +21,9 @@ links:
     url: 'http://nlaplante.github.io/envelope/'
   - type: GitHub
     url: nlaplante/envelope
+
+screenshots:
+  - Envelope.png
 
 installation:
   - system: elementary

@@ -8,7 +8,7 @@ updated: 2015-03-21
 title: Foto
 permalink: /Foto/
 title_obvious: true
-generic: Photo manager
+generic: photo manager
 description: 'Fast, simple, beautiful and free – a very simple and native image viewer and album manager. The goal is to offer an excellent UX and usability.'
 license: GPL v3
 

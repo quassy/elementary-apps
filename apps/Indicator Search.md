@@ -8,7 +8,7 @@ updated: 2015-04-28
 title: Indicator Search
 permalink: /Indicator Search/
 title_obvious: true
-generic: Indicator
+generic: indicator
 description:
 license: GPL v3
 

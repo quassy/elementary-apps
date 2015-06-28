@@ -8,7 +8,7 @@ updated: 2015-06-19
 title: Configurator
 permalink: /Configurator/
 title_obvious: false
-generic: Config editor
+generic: config editor
 description: A stylish and easy to access way to configure hidden system settings. Input-helpers, code examples and an event-logger make the use of dconf will get easier than ever before.
 license: GPL v3
 
