@@ -37,13 +37,13 @@ installation:
     info:
     - version: 0.3
       repository: 'ppa:justsomedood/justsomeelementary'
-      package: elementary-plus-icons
+      package: elementary-plus
       type: unstable
   - system: Ubuntu
     info:
     - version: 14.04
       repository: 'ppa:justsomedood/justsomeelementary'
-      package: elementary-plus-icons
+      package: elementary-plus
       type: unstable
 
 tags:
