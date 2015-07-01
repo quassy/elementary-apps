@@ -25,6 +25,14 @@ links:
   - type: Authors
     url: http://bazaar.launchpad.net/~l-admin-3/configurator/trunk/view/head:/AUTHORS
 
+installation:
+  - system: elementary
+    info:
+    - version: 0.3
+      repository: 'ppa:l-admin-3/apps-daily'
+      package: configurator
+      type: stable
+
 screenshots:
   - Configurator.png
 
