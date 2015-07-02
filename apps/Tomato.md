@@ -18,7 +18,7 @@ authors:
 
 links:
   - type: Launchpad
-    url: tomato
+    url: tomatoapp
   - type: Install
     url: 'https://plus.google.com/+LuizAugustoMorais/posts/YzjUY6Bospz'
   - type: License
