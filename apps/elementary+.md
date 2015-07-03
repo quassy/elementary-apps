@@ -15,7 +15,7 @@ license: TBD
 authors:
   - name: Manuel Kehl
     url: https://github.com/mank319
-  - name: 'Stefan Ric "cybre"'
+  - name: Stefan Ric (cybre)
     url: https://github.com/cybre
 
 links:

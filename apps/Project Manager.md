@@ -13,7 +13,7 @@ description: Work with Bazaar and Launchpad directly from Scratch / Euclide IDE
 license:
 
 authors:
-  - name: Adam "donadigo" Bieńkowski
+  - name: Adam Bieńkowski (donadigo)
     url: "https://launchpad.net/~donadigo"
 
 links:

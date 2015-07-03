@@ -12,16 +12,8 @@ generic: screencaster
 description: 'A simple screencasting app for the elementary project'
 license: GPL v3
 
-installation:
-  - system: elementary
-    info:
-    - version: 0.3
-      repository: 'ppa:elementary-os/daily'
-      package: eidete
-      type: stable
-
 authors:
-  - name: 'Sergey “Shnatsel” Davidoff'
+  - name: 'Sergey Davidoff (Shnatsel)'
     url: 'https://launchpad.net/~shnatsel'
   - name: PerfectCarl
     url: 'https://launchpad.net/~name-is-carl'
@@ -32,4 +24,12 @@ links:
 
 screenshots:
   - Eidete.png
+
+  installation:
+    - system: elementary
+      info:
+      - version: 0.3
+        repository: 'ppa:elementary-os/daily'
+        package: eidete
+        type: daily
 ---

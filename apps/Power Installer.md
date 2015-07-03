@@ -13,7 +13,7 @@ description:
 license: GPL v3
 
 authors:
-  - name: Adam Bieńkowski
+  - name: Adam Bieńkowski (donadigo)
     url: "https://plus.google.com/102383287758197741530"
 
 links:

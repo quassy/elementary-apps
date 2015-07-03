@@ -31,7 +31,7 @@ installation:
     - version: 0.3
       repository: 'ppa:l-admin-3/apps-daily'
       package: configurator
-      type: stable
+      type: daily
 
 screenshots:
   - Configurator.png

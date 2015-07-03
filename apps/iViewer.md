@@ -13,7 +13,7 @@ description: Apple users with a jailbroken device can finally use iMessage remot
 license: GPL v3
 
 authors:
-  - name: Felipe Escoto a.k.a Philip Scott
+  - name: Felipe Escoto (Philip Scott)
     url: "https://plus.google.com/116970085465259483479"
 
 links:

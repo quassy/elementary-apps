@@ -13,7 +13,7 @@ description: It makes user life easier.
 license: GPL v3
 
 authors:
-  - name: Adam Bieńkowski
+  - name: Adam Bieńkowski (donadigo)
     url: https://launchpad.net/~donadigo
 
 links:
