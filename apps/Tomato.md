@@ -33,7 +33,7 @@ installation:
   - system: elementary
     info:
     - version: 0.3
-      repository: 'ppa:luizaugustomm/tomato-daily'
+      repository: 'ppa:tomato-team/tomato-daily'
       package: tomato
       type: daily
 
