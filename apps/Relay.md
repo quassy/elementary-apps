@@ -5,8 +5,8 @@ category: app
 created: 2015-06-19
 updated: 2015-06-19
 
-permalink: /KyRC/
-title: KyRC
+permalink: /Relay/
+title: Relay
 title_obvious: false
 generic: IRC client
 description:  An IRC client designed for elementary OS
@@ -18,14 +18,16 @@ authors:
 
 links:
   - type: GitHub
-    url: agronick/KyRC
+    url: agronick/Relay
   - type: Build
-    url: 'https://github.com/agronick/KyRC/blob/master/INSTALL'
+    url: 'https://github.com/agronick/Relay/blob/master/INSTALL'
   - type: License
-    url: 'https://github.com/agronick/KyRC/blob/master/LICENSE'
+    url: 'https://github.com/agronick/Relay/blob/master/LICENSE'
 
 tags:
   - GTK3
   - Vala
   - Freya
+
+redirect_from: "/KyRC/"
 ---
