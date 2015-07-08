@@ -34,3 +34,5 @@ Started at [/r/elementaryos](http://www.reddit.com/r/elementaryos/comments/2r0xe
 * [deviantArt](http://elementaryos.deviantart.com/) (designs and mockups)
 * [Google+](https://plus.google.com/114635553671833442612)
 * [Twitter](https://twitter.com/elementary)
+
+<a class="b" href="https://github.com/quassy/elementary-apps/edit/gh-pages/{{ page.path }}"><span class="octicon octicon-pencil"></span> Improve this page on GitHub!</a>

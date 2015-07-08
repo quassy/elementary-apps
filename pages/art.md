@@ -4,6 +4,8 @@ title: Art for elementary
 permalink: /art/
 ---
 
+We currently have {{ site.pages | size }} [apps]({{ site.baseurl }}/apps/) and pieces of [art]({{ site.baseurl }}/art/) in our database. Found something fancy? [*Tell us at GitHub.*](https://github.com/quassy/elementary-apps/issues/new)
+
 Name | Info | Developer
 ---|---|---
 [**Atom** elementary Light UI](https://atom.io/themes/elementary-light-ui) | Atom theme | [Cassidy James](https://atom.io/users/cassidyjames)
@@ -17,6 +19,4 @@ Name | Info | Developer
 [**Thunderbird**](https://github.com/alxlit/elementary-thunderbird) ([MOZ](https://addons.mozilla.org/de/thunderbird/addon/elementary-thunderbird/?src=search), inactive?)| Thunderbird add-on | [*alxlit*](https://github.com/alxlit)
 [**Wallpapers (DB)**](https://www.dropbox.com/sh/79552p64tto7wbc/MSPgrgWfYa) ([GD](https://drive.google.com/folderview?id=0B4KUARZUQ-n_X1FrY29XVXpHUTQ&usp=sharing)) | Wallpapers | [Brian Bentsen](https://plus.google.com/109395049570451231471)
 
-<p>
-  We currently have {{ site.pages | size }} <a href="{{ site.baseurl }}/apps/">apps</a> and pieces of <a href="{{ site.baseurl }}/art/">art</a> in our database. Found something fancy? <a href="https://github.com/quassy/elementary-apps/issues/new">Tell us at GitHub.</a>
-</p>
+<a class="b" href="https://github.com/quassy/elementary-apps/edit/gh-pages/{{ page.path }}"><span class="octicon octicon-pencil"></span> Improve this list on GitHub!</a>

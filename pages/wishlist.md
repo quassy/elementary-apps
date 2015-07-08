@@ -8,6 +8,8 @@ As many excellent apps you will find here, as many people probably miss their pe
 
 If you are a developer please squash some [elementary bugs](http://bugs.launchpad.net/elementary) or help out [other developers]({{ site.baseurl }}apps/) first. Or do you own thing: Any item on this list is a good place to start your own elementary project. 
 
+If there is another app for elementary you are missing desperately, feel free to [file an issue at GitHub](https://github.com/quassy/elementary-apps/issues/new) to get it added to the list (or develop it yourself and tell us about it). 
+
 Name | Generic | Info
 ---|---|---
 [AppCenter](https://launchpad.net/appcenter) (in-development) | Software Store | Official elementary app. Only included because people often ask: This in development, but it is not expected to be finished before elementary 0.4 Loki. 
@@ -27,4 +29,4 @@ Name | Generic | Info
 *VC Client* | Client for git (& others?) | Maybe something like [described in this blog entry](http://tonsky.me/blog/reinventing-git-interface/), or GitHub for Windows
 *Books* | .epub Reader | There's a demand for a dedicated .epub reader for elementary OS (and a book store if possible). [GNOME Books](https://github.com/martamilakovic/gnome-books) might be a useful resource. [Relevant Launchpad bug](https://bugs.launchpad.net/elementaryos/+bug/1183708).
 
-If there is another app for elementary you are missing desperately, feel free to [file an issue at GitHub](https://github.com/quassy/elementary-apps/issues/new) to get it added to the list (or *just* develop it yourself). 
+<a class="b" href="https://github.com/quassy/elementary-apps/edit/gh-pages/{{ page.path }}"><span class="octicon octicon-pencil"></span> Improve this list on GitHub!</a>

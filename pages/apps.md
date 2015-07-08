@@ -4,6 +4,8 @@ title: Apps for elementary
 permalink: /apps/
 ---
 
+We currently have {{ site.pages | size }} [apps]({{ site.baseurl }}/apps/) and pieces of [art]({{ site.baseurl }}/art/) in our database. Something missing? [*Report it at GitHub.*](https://github.com/quassy/elementary-apps/issues/new)
+
 <table class="overview tablesorter">
   <thead>
     <tr>
@@ -39,6 +41,4 @@ permalink: /apps/
   </tbody>
 </table>
 
-<p>
-  We currently have {{ site.pages | size }} <a href="{{ site.baseurl }}/apps/">apps</a> and pieces of <a href="{{ site.baseurl }}/art/">art</a> in our database. Something missing? <a href="https://github.com/quassy/elementary-apps/issues/new">Report it at GitHub.</a>
-</p>
+<a class="b" href="https://github.com/quassy/elementary-apps/issues/new"><span class="octicon octicon-pencil"></span> Report a missing app on GitHub!</a>
