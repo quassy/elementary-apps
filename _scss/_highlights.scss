@@ -11,8 +11,8 @@
   display: flex;
   justify-content: left;
   align-items: center;
-  &:first-child {
-    margin:8px;
+  & > * {
+    margin:0 5px;
   }
 }
 
