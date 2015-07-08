@@ -24,6 +24,33 @@ links:
   - type: License
     url: 'https://github.com/agronick/Relay/blob/master/LICENSE'
 
+installation:
+  - system: elementary
+    info:
+    - version: '0.3'
+      repository: 'ppa:agronick/ppa'
+      package: relay
+      type: stable
+  - system: Ubuntu
+    info:
+    - version: '14.04'
+      repository: 'ppa:agronick/ppa'
+      package: relay
+      type: stable
+    - version: '14.10'
+      repository: 'ppa:agronick/ppa'
+      package: relay
+      type: stable
+    - version: '15.04'
+      repository: 'ppa:agronick/ppa'
+      package: relay
+      type: stable
+    - version: '15.10'
+      repository: 'ppa:agronick/ppa'
+      package: relay
+      type: stable
+
+    
 tags:
   - GTK3
   - Vala
