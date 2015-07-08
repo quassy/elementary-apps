@@ -24,6 +24,9 @@ links:
   - type: License
     url: 'https://github.com/agronick/Relay/blob/master/LICENSE'
 
+screenshots:
+  - Relay.png
+    
 installation:
   - system: elementary
     info:

@@ -2,11 +2,10 @@
 layout: default
 ---
 
-{% assign sorted_pages = site.pages | sort:"updated" | reverse %}
-
 <div class="posts">
 
-  {% for post in sorted_pages %}
+  {% assign sorted = site.pages | sort:"updated" | reverse %}
+  {% for post in sorted %}
     {% if post.layout == 'app' && post.published == 'true' %}  
  
       {% include loop.html %}

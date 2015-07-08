@@ -13,7 +13,8 @@ permalink: /apps/
     </tr>
   </thead>
   <tbody>
-    {% for post in site.pages | sort:"updated" | reverse %}
+    {% assign sorted = site.pages | sort:"updated" | reverse %}
+    {% for post in sorted | sort:"updated" | reverse %}
       {% if post.layout == 'app' && post.published == 'true' %}
         <tr id="{{ post.url }}">
           <td>
