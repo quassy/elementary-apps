@@ -19,4 +19,4 @@ Name | Info | Developer
 [**Thunderbird**](https://github.com/alxlit/elementary-thunderbird) ([MOZ](https://addons.mozilla.org/de/thunderbird/addon/elementary-thunderbird/?src=search), inactive?)| Thunderbird add-on | [*alxlit*](https://github.com/alxlit)
 [**Wallpapers (DB)**](https://www.dropbox.com/sh/79552p64tto7wbc/MSPgrgWfYa) ([GD](https://drive.google.com/folderview?id=0B4KUARZUQ-n_X1FrY29XVXpHUTQ&usp=sharing)) | Wallpapers | [Brian Bentsen](https://plus.google.com/109395049570451231471)
 
-<a class="b" href="https://github.com/quassy/elementary-apps/edit/gh-pages/{{ page.path }}"><span class="octicon octicon-pencil"></span> Improve this list on GitHub!</a>
+<p><a class="b" href="https://github.com/quassy/elementary-apps/edit/gh-pages/{{ page.path }}"><span class="octicon octicon-pencil"></span> Improve this list on GitHub!</a></p>

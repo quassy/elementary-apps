@@ -29,4 +29,4 @@ Name | Generic | Info
 *VC Client* | Client for git (& others?) | Maybe something like [described in this blog entry](http://tonsky.me/blog/reinventing-git-interface/), or GitHub for Windows
 *Books* | .epub Reader | There's a demand for a dedicated .epub reader for elementary OS (and a book store if possible). [GNOME Books](https://github.com/martamilakovic/gnome-books) might be a useful resource. [Relevant Launchpad bug](https://bugs.launchpad.net/elementaryos/+bug/1183708).
 
-<a class="b" href="https://github.com/quassy/elementary-apps/edit/gh-pages/{{ page.path }}"><span class="octicon octicon-pencil"></span> Improve this list on GitHub!</a>
+<p><a class="b" href="https://github.com/quassy/elementary-apps/edit/gh-pages/{{ page.path }}"><span class="octicon octicon-pencil"></span> Improve this list on GitHub!</a></p>

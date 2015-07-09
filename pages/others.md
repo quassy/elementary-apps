@@ -12,4 +12,4 @@ permalink: /others/
   * [Gentoo](https://github.com/pimvullers/elementary)
   * [Gnome Shell Slingshot](https://github.com/rastersoft/slingshot_gnome) by [Sergio Costas](https://plus.google.com/109028243437007082486)
 
-<a class="b" href="https://github.com/quassy/elementary-apps/edit/gh-pages/{{ page.path }}"><span class="octicon octicon-pencil"></span> Improve this page on GitHub!</a>
+<p><a class="b" href="https://github.com/quassy/elementary-apps/edit/gh-pages/{{ page.path }}"><span class="octicon octicon-pencil"></span> Improve this page on GitHub!</a></p>

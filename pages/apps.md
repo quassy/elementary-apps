@@ -41,4 +41,4 @@ We currently have {{ site.pages | size }} [apps]({{ site.baseurl }}/apps/) and p
   </tbody>
 </table>
 
-<a class="b" href="https://github.com/quassy/elementary-apps/issues/new"><span class="octicon octicon-pencil"></span> Report a missing app on GitHub!</a>
+<p><a class="b" href="https://github.com/quassy/elementary-apps/issues/new"><span class="octicon octicon-pencil"></span> Report a missing app on GitHub!</a></p>

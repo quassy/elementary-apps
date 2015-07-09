@@ -6,7 +6,7 @@ permalink: /about/
 
 A resource for 3rd party software designed for [elementary (OS)](http://elementary.io). If you find an error or want to add an app, [file an issue](https://github.com/quassy/elementary-apps/issues/new). You can find detailed info about contributing in the [readme file]({{ site.baseurl }}/readme).
 
-Started at [/r/elementaryos](http://www.reddit.com/r/elementaryos/comments/2r0xey/third_party_development_and_apps/), [with](http://madeforelementary.tumblr.com/) [some](https://github.com/PerfectCarl/elementary-apps) [inspiration](https://github.com/elementary-fr/ideas).
+Started on 1st January 2015 at [/r/elementaryos](http://www.reddit.com/r/elementaryos/comments/2r0xey/third_party_development_and_apps/), [with](http://madeforelementary.tumblr.com/) [some](https://github.com/PerfectCarl/elementary-apps) [inspiration](https://github.com/elementary-fr/ideas).
 
 *This is not a blog.* 
 
@@ -35,4 +35,4 @@ Started at [/r/elementaryos](http://www.reddit.com/r/elementaryos/comments/2r0xe
 * [Google+](https://plus.google.com/114635553671833442612)
 * [Twitter](https://twitter.com/elementary)
 
-<a class="b" href="https://github.com/quassy/elementary-apps/edit/gh-pages/{{ page.path }}"><span class="octicon octicon-pencil"></span> Improve this page on GitHub!</a>
+<p><a class="b" href="https://github.com/quassy/elementary-apps/edit/gh-pages/{{ page.path }}"><span class="octicon octicon-pencil"></span> Improve this page on GitHub!</a></p>
