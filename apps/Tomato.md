@@ -3,7 +3,7 @@ published: true
 layout: app
 category: app
 created: 2015-06-25
-updated: 2015-06-25
+updated: 2015-07-10
 
 title: Tomato
 permalink: /Tomato/
@@ -33,9 +33,9 @@ installation:
   - system: elementary
     info:
     - version: 0.3
-      repository: 'ppa:tomato-team/tomato-daily'
+      repository: 'ppa:tomato-team/tomato-stable'
       package: tomato
-      type: daily
+      type: stable
 
 tags:
   - GTK3
