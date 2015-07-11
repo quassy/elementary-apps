@@ -26,4 +26,7 @@ tags:
   - sqlheavy
 ---
 
-Have a look at the [preview video](https://www.youtube.com/watch?v=3RoN0TpWxoE)
+## Video
+Have a look at the preview video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3RoN0TpWxoE" frameborder="0" allowfullscreen></iframe>
