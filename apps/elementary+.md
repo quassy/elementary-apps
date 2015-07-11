@@ -3,7 +3,7 @@ published: true
 layout: app
 category: art
 created: 2015-01-21
-updated: 2015-03-21
+updated: 2015-07-11
 
 title: elementary+
 permalink: /elementary+/
@@ -17,6 +17,10 @@ authors:
     url: https://github.com/mank319
   - name: Stefan Ric (cybre)
     url: https://github.com/cybre
+  - name: quassy
+    url: https://github.com/quassy
+  - name: RafaelCz
+    url: https://github.com/RafaelCz
 
 links:
   - type: GitHub
