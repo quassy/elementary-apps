@@ -14,7 +14,7 @@ footer-links:
   email: 
   facebook: 
   flickr: 
-  github: elementarians/apps
+  github: quassy/elementary-apps
   instagram: 
   linkedin: 
   pinterest: 
@@ -58,7 +58,6 @@ sass:
 
 # Use the following plug-ins
 gems:
-  - jemoji # Emoji please!
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-redirect-from
 

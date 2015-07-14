@@ -24,6 +24,9 @@ links:
   - type: Readme
     url: 'https://github.com/aniket-deole/notes/blob/master/README.md'
 
+screenshots:
+  - Notes.png
+    
 tags:
   - GTK3
   - Vala
