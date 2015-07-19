@@ -58,5 +58,5 @@ tags:
   - Vala
   - Freya
 
-redirect_from: "/KyRC/"
+redirect_from: /KyRC/
 ---
