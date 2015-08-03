@@ -9,4 +9,4 @@ Gemfile.lock
 node_modules
 package.json
 Thumbs.db
-gitignore.d/
+vid/

@@ -3,7 +3,7 @@ published: true
 layout: app
 category: app
 created: 2015-07-01
-updated: 2015-07-14
+updated: 2015-07-25
 
 title: Notes
 permalink: /Notes/
@@ -32,3 +32,6 @@ tags:
   - Vala
   - Freya
 ---
+## Video
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/d21Ta0_vsEY" frameborder="0" allowfullscreen></iframe>

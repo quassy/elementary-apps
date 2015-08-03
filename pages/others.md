@@ -5,6 +5,7 @@ permalink: /others/
 ---
 
 * Icons 
+  * [Android "Theia"](https://elementary.today/theia/) ([GitHub](https://github.com/varlesh/theia-icon-theme))
   * [Windows](http://neiio.deviantart.com/art/elementary-icon-pack-479987887)
   * [XFCE](https://github.com/shimmerproject/elementary-xfce)
 * Elementary / Pantheon DE
