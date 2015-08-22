@@ -9,7 +9,7 @@ title: Nutty
 permalink: /Nutty/
 title_obvious: false
 generic: network diagnostics
-description: Siddhartha Das
+description: A straightforward tool to get info about your connection and local network
 license: LGPL v3
 
 authors:
