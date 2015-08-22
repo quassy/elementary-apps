@@ -45,11 +45,6 @@ installation:
       repository: 'ppa:bablu-boy/nutty-daily'
       package: nutty
       type: daily
-  # +Ubuntu
-
-# version should just be the number aka x.x
-# repository is either an actual repo (like ppa: or http://) or default/stock (which one?)
-# type can be stable, unstable, daily (in that order)
 
 tags:
   - Granite
