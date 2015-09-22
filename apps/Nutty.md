@@ -29,7 +29,7 @@ links:
     url: "http://bazaar.launchpad.net/~bablu-boy/nutty/trunk/view/head:/AUTHORS"
   # Screenshots, videos, reviews
   - type: Screenshots
-    url: "https://plus.google.com/photos/108373005915819607337/albums/6166516208582162289?authkey=CLzKyIP1j73ewQE"
+    url: "https://drive.google.com/open?id=0B3qvTaZlWfvrflpBX0lLc0U0R200bUhWQzY0ZmhRWXR5VE5MNVZyM0JYanhCSmF5SFc5Tjg"
 
 screenshots:
   - Nutty.png
@@ -37,11 +37,11 @@ screenshots:
 installation:
   - system: elementary
     info:
-    - version: '0.3'
+    - version: '0.4'
       repository: 'ppa:bablu-boy/nutty.0.1'
       package: nutty
       type: stable
-    - version: '0.3'
+    - version: '0.4'
       repository: 'ppa:bablu-boy/nutty-daily'
       package: nutty
       type: daily
