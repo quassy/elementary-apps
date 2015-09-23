@@ -32,7 +32,7 @@ links:
     url: "https://drive.google.com/open?id=0B3qvTaZlWfvrflpBX0lLc0U0R200bUhWQzY0ZmhRWXR5VE5MNVZyM0JYanhCSmF5SFc5Tjg"
 
 screenshots:
-  - Nutty.png
+  - Nutty_Usage.png
 
 installation:
   - system: elementary
