@@ -37,11 +37,11 @@ screenshots:
 installation:
   - system: elementary
     info:
-    - version: '0.4'
+    - version: '0.3'
       repository: 'ppa:bablu-boy/nutty.0.1'
       package: nutty
       type: stable
-    - version: '0.4'
+    - version: '0.3'
       repository: 'ppa:bablu-boy/nutty-daily'
       package: nutty
       type: daily
