@@ -32,7 +32,7 @@ links:
     url: "https://drive.google.com/open?id=0B3qvTaZlWfvrflpBX0lLc0U0R200bUhWQzY0ZmhRWXR5VE5MNVZyM0JYanhCSmF5SFc5Tjg"
 
 screenshots:
-  - url: "https://drive.google.com/folderview?id=0B3qvTaZlWfvrflpBX0lLc0U0R200bUhWQzY0ZmhRWXR5VE5MNVZyM0JYanhCSmF5SFc5Tjg&usp=drive_web"
+  - url: "https://drive.google.com/file/d/0B3qvTaZlWfvra2NqY2pTSUxHbHc/view?pli=1"
 
 installation:
   - system: elementary
