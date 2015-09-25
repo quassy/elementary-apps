@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: app
 category: app
 created: 2015-01-14
@@ -21,6 +21,9 @@ authors:
 links:
   - type: Launchpad
     url: fantasy
+
+screenshots:
+  - Fantasy.png
 
 installation:
   - system: elementary

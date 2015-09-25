@@ -27,15 +27,15 @@ links:
 installation:
   - system: Ubuntu
     info:
-    - version: 15.04
+    - version: '15.04'
       repository: ppa:gnumdk/lollypop
       package:  lollypop
       type: stable
-    - version: 14.10
+    - version: '14.10'
       repository: ppa:gnumdk/lollypop
       package:  lollypop
       type: stable
-    - version: 14.04
+    - version: '14.04'
       repository: ppa:gnumdk/lollypop
       package:  lollypop
       type: stable
