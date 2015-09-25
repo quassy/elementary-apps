@@ -29,5 +29,6 @@ Name | Generic | Info
 *VC Client* | Client for git (& others?) | Maybe something like [described in this blog entry](http://tonsky.me/blog/reinventing-git-interface/), or GitHub for Windows
 [Fantasy]({{ site.baseurl }}/Fantasy/) (abandoned | book Reader | There's a demand for a dedicated .epub reader for elementary OS (and a book store if possible). [GNOME Books](https://github.com/martamilakovic/gnome-books) might be a useful resource. [Relevant Launchpad bug](https://bugs.launchpad.net/elementaryos/+bug/1183708).
 *Keepass* | Password manager | A handy and snappy password manager/keyring based on standard KeePass database format. The existing KeePassX uses WX Widgets, and KeePass2 uses some other stuff, and both look ugly, which is a problem. Plus, a bit more system integration (like indicator, auto-paste, etc.) would be sweet.
+*Dropdown Terminal* | Dropdown terminal | Lightweight dropdown terminal that integrates seamlessly with the desktop environment, similar to the [GNOME Shell Extension](https://extensions.gnome.org/extension/442/drop-down-terminal/). 
 
 <p><a class="b" href="https://github.com/quassy/elementary-apps/edit/gh-pages/{{ page.path }}"><span class="octicon octicon-pencil"></span> Improve this list on GitHub!</a></p>
