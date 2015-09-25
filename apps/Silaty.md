@@ -21,4 +21,7 @@ links:
     url: 'http://jessewb.wordpress.com/category/silaty-development/'
   - type: GitHub
     url: Jessewb786/Silaty
+
+screenshots:
+  - Silaty.png
 ---
