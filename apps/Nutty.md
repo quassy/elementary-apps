@@ -29,10 +29,10 @@ links:
     url: "http://bazaar.launchpad.net/~bablu-boy/nutty/trunk/view/head:/AUTHORS"
   # Screenshots, videos, reviews
   - type: Screenshots
-    url: "https://plus.google.com/photos/108373005915819607337/albums/6166516208582162289?authkey=CLzKyIP1j73ewQE"
+    url: "https://drive.google.com/open?id=0B3qvTaZlWfvrflpBX0lLc0U0R200bUhWQzY0ZmhRWXR5VE5MNVZyM0JYanhCSmF5SFc5Tjg"
 
 screenshots:
-  - Nutty.png
+  - Nutty_Usage.png
 
 installation:
   - system: elementary
@@ -50,6 +50,5 @@ tags:
   - Granite
   - GTK3
   - Vala
-
   - Freya
 ---
