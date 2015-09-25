@@ -31,25 +31,21 @@ installation:
   - system: elementary
     info:
     - version: '0.3'
-      repository: 'ppa:agronick/ppa'
+      repository: 'ppa:agronick/relay'
       package: relay
       type: stable
   - system: Ubuntu
     info:
     - version: '15.10'
-      repository: 'ppa:agronick/ppa'
+      repository: 'ppa:agronick/relay'
       package: relay
       type: stable
     - version: '15.04'
-      repository: 'ppa:agronick/ppa'
-      package: relay
-      type: stable
-    - version: '14.10'
-      repository: 'ppa:agronick/ppa'
+      repository: 'ppa:agronick/relay'
       package: relay
       type: stable
     - version: '14.04'
-      repository: 'ppa:agronick/ppa'
+      repository: 'ppa:agronick/relay'
       package: relay
       type: stable
     
