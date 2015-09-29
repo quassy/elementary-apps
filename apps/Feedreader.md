@@ -3,13 +3,13 @@ published: true
 layout: app
 category: app
 created: 2015-01-07
-updated: 2015-04-28
+updated: 2015-09-29
 
 title: FeedReader
 permalink: /FeedReader/
 title_obvious: true
 generic: feed reader
-description: 'A simple feedreader client (not manager) for web services like Tiny Tiny RSS and in the future others (especially Feedly).'
+description: 'A simple feedreader client (not manager) for web services like Tiny Tiny RSS or Feedly.'
 license: GPL v3
 
 authors:
@@ -17,8 +17,12 @@ authors:
     url: "https://plus.google.com/109974726829108083807"
 
 links:
+  - type: Web
+    url: "https://jangernert.github.io/feedreader/"
   - type: Launchpad
     url: feedreader
+  - type: License
+    url: "http://bazaar.launchpad.net/~eviltwin1/feedreader/master/view/head:/COPYING"
 
 screenshots:
   - FeedReader.png
@@ -27,7 +31,7 @@ installation:
   - system: elementary
     info:
     - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
+      repository: 'ppa:eviltwin1/feedreader-stable'
       package: feedreader
       type: stable
     - version: 0.3
