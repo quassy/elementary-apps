@@ -3,7 +3,7 @@ published: true
 layout: app
 category: app
 created: 2015-06-19
-updated: 2015-06-19
+updated: 2015-10-05
 
 title: Imgur Contract
 permalink: /Imgur Contract/
@@ -25,6 +25,9 @@ links:
   - type: License
     url: 'https://github.com/cybre/imgur-contract/blob/master/README.md'
 
+screenshots:
+  - Imgur Contract.png
+    
 installation:
   - system: elementary
     info:
