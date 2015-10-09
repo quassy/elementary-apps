@@ -70,7 +70,8 @@ exclude:
 collections:
   - apps:
       output: true
-      permalink: /:title/
+      permalink: /:name/
+      title: /:name/
 
 defaults:
   - scope:

@@ -1,10 +1,8 @@
 ---
-published: true
 category: app
 created: 2014-10-18
 updated: 2015-03-21
 
-title: UberWriter
 title_obvious: false
 generic: Markdown editor
 description: 'A simple markdown editor that offers a lot of features. Get it if you love markdown and like writing in a clutter free environment.'
