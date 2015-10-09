@@ -66,3 +66,16 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - .gitignore
+  
+collections:
+  - apps:
+      output: true
+      permalink: /:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: apps
+    values:
+      published: true
+      layout: app
