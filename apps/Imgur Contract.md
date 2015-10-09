@@ -23,7 +23,7 @@ links:
   - type: Readme
     url: 'https://github.com/cybre/imgur-contract/blob/master/README.md'
   - type: License
-    url: 'https://github.com/cybre/imgur-contract/blob/master/README.md'
+    url: 'https://github.com/cybre/imgur-contract/blob/master/LICENSE'
 
 screenshots:
   - Imgur Contract.png
