@@ -1,8 +1,10 @@
 ---
+published: true
 category: app
 created: 2014-10-18
 updated: 2015-03-21
 
+title: UberWriter
 permalink: /UberWriter/
 title_obvious: false
 generic: Markdown editor
