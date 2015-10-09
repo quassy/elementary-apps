@@ -3,6 +3,7 @@ layout: post
 ---
 
 {% assign post = page %}
+{% if !page.title %}{% assign page.title = page.name %}{% endif %}
 
 {% include app_teaser.html %}
 {% include app_content.html %}

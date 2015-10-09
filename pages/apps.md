@@ -17,11 +17,11 @@ We currently have {{ site.pages | size }} [apps]({{ site.baseurl }}/apps/) and p
   <tbody>
     {% assign sorted = site.pages | sort:"updated" | reverse %}
     {% for post in sorted | sort:"updated" | reverse %}
-      {% if post.layout == 'app' && post.published == 'true' %}
+      {% if post.layout == 'app' && post.published != 'false' %}
         <tr id="{{ post.url }}">
           <td>
             <a href="{{ site.baseurl }}{{ post.url }}" style="font-weight:bold">
-              {{ post.title }}
+              {% if page.title %}{{ page.title }}{% else %}{{ page.name }}{% endif %}
             </a>
             {% if post.installation %}<span class="octicon octicon-package" title="Package available"></span>{% endif %}
             {% if post.screenshots %}<span class="octicon octicon-device-desktop" title="Screenshot available"></span>{% endif %}
