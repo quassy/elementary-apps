@@ -8,7 +8,7 @@ updated: 2015-10-07
 title: Metronome
 permalink: /Metronome/
 title_obvious: true
-generic: Metronome
+generic: metronome
 description: A very light and neat click app for elementary OS.
 license: GPL v3
 
