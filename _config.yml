@@ -70,7 +70,6 @@ exclude:
 collections:
   - apps:
       output: true
-      permalink: /:name/
       title: /:name/
 
 defaults:
