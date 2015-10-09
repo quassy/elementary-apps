@@ -1,13 +1,10 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-01-07
 updated: 2015-04-28
 
-title: eRadio
 permalink: /eRadio/
-title_obvious: false
 generic: audio streaming
 description: 'Create a list of stations by providing their streaming url and then listen to them.'
 license: GPL v3

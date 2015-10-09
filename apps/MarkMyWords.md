@@ -1,13 +1,10 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-01-07
 updated: 2015-04-28
 
-title: MarkMyWords
 permalink: /MarkMyWords/
-title_obvious: false
 generic: Markdown editor
 description: 'A minimal markdown editor.'
 license: MIT

@@ -1,13 +1,10 @@
 ---
 published: false
 layout: app
-category: app
 created: 2015-01-07
 updated: 2015-04-28
 
-title: Yatla
 permalink: /Yatla/
-title_obvious: false
 generic: task management
 description: 'Yatla is a to-do app programmed in Vala, using Gtk and sqlheavy as database.'
 license: GPL v3

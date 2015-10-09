@@ -1,13 +1,10 @@
 ---
-published: true
+
 layout: app
-category: art
 created: 2015-01-21
 updated: 2015-07-11
 
-title: elementary+
 permalink: /elementary+/
-title_obvious: false
 generic: icon set
 description: A collection of several third party icons and scripts for panel indicators as an addition to the default icon theme.
 license: TBD

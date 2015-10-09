@@ -1,13 +1,10 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-08-22
 updated: 2015-08-22
 
-title: Hourglass
 permalink: /Hourglass/
-title_obvious: false
 generic: timer
 description: A simple clock application that is designed to fit perfectly into elementary's design scheme.
 license: GPL v3

@@ -1,13 +1,10 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-01-07
 updated: 2015-05-04
 
-title: GCleaner
 permalink: /GCleaner/
-title_obvious: false
 generic: maintenance
 description:
 license: GPL v3

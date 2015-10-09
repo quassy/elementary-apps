@@ -1,13 +1,10 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-04-02
 updated: 2015-04-28
 
-title: Ambient Noise Player
 permalink: /Ambient Noise Player/
-title_obvious: false
 generic: indicator
 description: Integrate noise into your sound indicator and relax or concentrate
 license: GPL v3

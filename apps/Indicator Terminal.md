@@ -1,11 +1,9 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-01-07
 updated: 2015-04-28
 
-title: Indicator Terminal
 permalink: /Indicator Terminal/
 title_obvious: true
 generic: indicator

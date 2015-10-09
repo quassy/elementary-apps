@@ -1,11 +1,9 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-10-07
 updated: 2015-10-07
 
-title: Metronome
 permalink: /Metronome/
 title_obvious: true
 generic: metronome

@@ -1,13 +1,10 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-06-19
 updated: 2015-07-08
 
-permalink: /Relay/
 title: Relay
-title_obvious: false
 generic: IRC client
 description:  An IRC client designed for elementary OS
 license: GPL v2
@@ -26,7 +23,7 @@ links:
 
 screenshots:
   - Relay.png
-    
+
 installation:
   - system: elementary
     info:
@@ -48,7 +45,7 @@ installation:
       repository: 'ppa:agronick/relay'
       package: relay
       type: stable
-    
+
 tags:
   - GTK3
   - Vala

@@ -1,13 +1,10 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-01-07
 updated: 2015-04-28
 
-title: Eidete
 permalink: /Eidete/
-title_obvious: false
 generic: screencaster
 description: 'A simple screencasting app for the elementary project'
 license: GPL v3

@@ -1,11 +1,9 @@
 ---
 published: false
 layout: app
-category: app
 created: 2014-10-19
 updated: 2015-03-21
 
-title: Calculator
 permalink: /Calculator/
 title_obvious: true
 generic: calculator

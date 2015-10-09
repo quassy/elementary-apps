@@ -1,13 +1,10 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-06-19
 updated: 2015-10-05
 
-title: Imgur Contract
 permalink: /Imgur Contract/
-title_obvious: false
 generic: uploader extension
 description: A Contractor plugin for pasting images to Imgur with a single click.
 license: GPL v3
@@ -27,7 +24,7 @@ links:
 
 screenshots:
   - Imgur Contract.png
-    
+
 installation:
   - system: elementary
     info:

@@ -1,13 +1,10 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-10-09
 updated: 2015-10-09
 
-title: Hastebin Contract
 permalink: /Hastebin Contract/
-title_obvious: false
 generic: uploader extension
 description: A Contractor plugin for pasting text files to Hastebin with a single click.
 license: GPL v3

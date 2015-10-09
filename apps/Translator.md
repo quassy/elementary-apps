@@ -1,11 +1,9 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-01-07
 updated: 2015-04-28
 
-title: Translator
 permalink: /Translator/
 title_obvious: true
 generic: translator

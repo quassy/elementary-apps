@@ -1,13 +1,10 @@
 ---
 published: false
 layout: app
-category: app
 created: 2015-01-07
 updated: 2015-04-28
 
-title: Akiee
 permalink: /Akiee/
-title_obvious: false
 generic: task management
 description: 'A Markdown-based task manager for hackers and people who build stuff.'
 license: GPL v2

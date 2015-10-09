@@ -1,13 +1,10 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-01-07
 updated: 2015-04-28
 
-title: Corebird
 permalink: /Corebird/
-title_obvious: false
 generic: Twitter client
 description: 'Corebird is a modern, easy and fun Twitter client, just what you were looking for, right?'
 license: GPL v3

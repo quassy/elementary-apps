@@ -1,13 +1,10 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-08-22
 updated: 2015-09-25
 
-title: Nutty
 permalink: /Nutty/
-title_obvious: false
 generic: network diagnostics
 description: A straightforward tool to get info about your connection and local network
 license: LGPL v3

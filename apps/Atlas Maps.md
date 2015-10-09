@@ -1,11 +1,9 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-02-01
 updated: 2015-04-28
 
-title: Atlas Maps
 permalink: /Atlas Maps/
 title_obvious: true
 generic: map viewer

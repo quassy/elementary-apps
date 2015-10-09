@@ -1,11 +1,9 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2014-10-20
 updated: 2015-03-21
 
-title: Foto
 permalink: /Foto/
 title_obvious: true
 generic: photo manager

@@ -1,13 +1,10 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-01-14
 updated: 2015-04-28
 
-title: Synopsis
 permalink: /Synopsis/
-title_obvious: false
 generic: archive utility
 description: 'A simple and concise archive utility.'
 license: GPL v2

@@ -1,13 +1,10 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-01-07
 updated: 2015-04-28
 
-title: Power Installer
 permalink: /Power Installer/
-title_obvious: false
 generic: one-click installer
 description:
 license: GPL v3
@@ -34,7 +31,7 @@ installation:
       package: power-installer
       type: stable
   - system: Ubuntu
-    info: 
+    info:
     - version: '14.04'
       repository: 'ppa:donadigo/donadigo'
       package: power-installer

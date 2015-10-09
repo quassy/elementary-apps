@@ -1,11 +1,9 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-07-01
 updated: 2015-07-25
 
-title: Notes
 permalink: /Notes/
 title_obvious: true
 generic: note keeping
@@ -26,7 +24,7 @@ links:
 
 screenshots:
   - Notes.png
-    
+
 tags:
   - GTK3
   - Vala

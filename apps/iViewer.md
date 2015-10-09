@@ -1,13 +1,10 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-01-17
 updated: 2015-04-28
 
-title: iViewer
 permalink: /iViewer/
-title_obvious: false
 generic: device integration
 description: Apple users with a jailbroken device can finally use iMessage remotely!
 license: GPL v3

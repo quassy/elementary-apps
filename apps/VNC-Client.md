@@ -1,11 +1,9 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-01-07
 updated: 2015-04-28
 
-title: VNC-Client
 permalink: /VNC-Cient/
 title_obvious: true
 generic: remote desktop client

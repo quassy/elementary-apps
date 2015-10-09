@@ -1,13 +1,10 @@
 ---
 published: true
 layout: app
-category: app
 created: 2015-06-19
 updated: 2015-06-19
 
-title: elementary Dropbox Mods
 permalink: /elementary Dropbox Mods/
-title_obvious: false
 generic: integration
 description: Integrates a status icon in Wingpanel and elementary-themed icons for Dropbox
 license: GPL v3

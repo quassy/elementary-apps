@@ -1,13 +1,10 @@
 ---
-published: true
+
 layout: app
-category: app
 created: 2015-01-07
 updated: 2015-04-28
 
-title: elementary Tweaks
 permalink: /elementary Tweaks/
-title_obvious: false
 generic: customization
 description: 'System tweaks for elementary OS Freya, organized as a Switchboard plugin.'
 license: GPL v3

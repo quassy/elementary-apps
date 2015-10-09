@@ -1,13 +1,10 @@
 ---
-published: true
+
 layout: app
-category: App
 created: 2015-01-07
 updated: 2015-04-28
 
-title: Agenda
 permalink: /Agenda/
-title_obvious: false
 generic: task management
 description: 'A simple, slick, speedy, no-nonsense task manager.'
 license: GPL v3
