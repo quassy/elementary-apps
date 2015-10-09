@@ -37,7 +37,7 @@ installation:
       type: stable
     - version: 0.2
       repository: 'ppa:cybre/hastebincontract'
-      package: imgur-contract
+      package: hastebin-contract
       type: stable
 
 tags:
