@@ -9,12 +9,12 @@ title: Imgur Contract
 permalink: /Imgur Contract/
 title_obvious: false
 generic: uploader extension
-description:
+description: A Contractor plugin for pasting images to Imgur with a single click.
 license: GPL v3
 
 authors:
   - name: Stefan Ric (cybre)
-    url: https://github.com/cybre
+    url: 'https://github.com/cybre'
     mail: 'stfric369@gmail.com'
 
 links:
@@ -36,28 +36,6 @@ installation:
       package: imgur-contract
       type: stable
     - version: 0.2
-      repository: 'ppa:cybre/imgurcontract'
-      package: imgur-contract
-      type: stable
-  - system: Ubuntu
-    info:
-    - version: 12.04
-      repository: 'ppa:cybre/imgurcontract'
-      package: imgur-contract
-      type: stable
-    - version: 14.04
-      repository: 'ppa:cybre/imgurcontract'
-      package: imgur-contract
-      type: stable
-    - version: 14.10
-      repository: 'ppa:cybre/imgurcontract'
-      package: imgur-contract
-      type: stable
-    - version: 15.04
-      repository: 'ppa:cybre/imgurcontract'
-      package: imgur-contract
-      type: stable
-    - version: 15.10
       repository: 'ppa:cybre/imgurcontract'
       package: imgur-contract
       type: stable
