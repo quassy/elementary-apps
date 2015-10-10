@@ -1,22 +1,22 @@
 [
   {
-      "name": "Daniel Foré",
-      "nick": "DanRabbit",
-      "place": "Sacramento, California, USA",
-      "pos": [-121.4978,38.582526],
-      "cat": ["elementary"]
+    "name": "Daniel Foré",
+    "nick": "DanRabbit",
+    "place": "Sacramento, California, USA",
+    "pos": [-121.4978,38.582526],
+    "cat": ["elementary"]
   },
   {
-      "name": "Cassidy James Blaede",
-      "place": "Englewood, Colorado, USA",
-      "pos": [-92.462697,42.511218],
-      "cat": ["elementary"]
+    "name": "Cassidy James Blaede",
+    "place": "Englewood, Colorado, USA",
+    "pos": [-92.462697,42.511218],
+    "cat": ["elementary"]
   },
   {
-      "name": "Harvey Cabaguio",
-      "nick": "BassUltra",
-      "pos": [-97.1411133,49.9017112],
-      "cat": ["elementary"]
+    "name": "Harvey Cabaguio",
+    "nick": "BassUltra",
+    "pos": [-97.1411133,49.9017112],
+    "cat": ["elementary"]
   },
   {
     "name": "Fabian Thoma",

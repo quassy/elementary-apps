@@ -2,7 +2,7 @@
 
   <header>
     <a href="{{ site.baseurl }}{{ post.url }}">
-      <h1 id="{{ post.title }}">{{ post.title }}</h1>
+      <h1 id="{{ post.title }}">{% if page.title %}{{ page.title }}{% else %}{{ page.name | remove: ".md" }}{% endif %}</h1>
     {% if post.generic %}<p>{{ post.generic }}</p>{% endif %}
     </a>
   </header>      
