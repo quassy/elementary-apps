@@ -15,8 +15,8 @@ We currently have {{ site.pages | size }} [apps]({{ site.baseurl }}/apps/) and p
     </tr>
   </thead>
   <tbody>
-    {% assign sorted = site.pages | sort:"updated" %}
-    {% for post in sorted | sort:"updated" %}
+    {% assign sorted = site.pages %}
+    {% for post in sorted | sort:"updated" |reverse %}
       {% if post.layout == 'app' && post.published != 'false' %}
         <tr id="{{ post.url }}">
           <td>
@@ -24,7 +24,7 @@ We currently have {{ site.pages | size }} [apps]({{ site.baseurl }}/apps/) and p
               {% if post.title %}{{ post.title }}{% else %}{{ post.name | remove: ".md" }}{% endif %}
             </a>
             {% if post.installation %}<span class="octicon octicon-package" title="Package available"></span>{% endif %}
-            {% if !post.screenshots %}<span class="octicon octicon-device-desktop" title="Screenshot missing" style="color:#c00;"></span>{% endif %}
+            {% if post.screenshots == blank %}<span class="octicon octicon-device-desktop" title="Screenshot missing" style="color:#c00;"></span>{% endif %}
             <br/>
             {% include list_links.html %}
           </td>
