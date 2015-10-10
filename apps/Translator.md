@@ -24,6 +24,9 @@ installation:
       package: translator
       type: stable
 
+screenshots:
+  - Translator.png
+      
 installation:
   - system: elementary
     info:

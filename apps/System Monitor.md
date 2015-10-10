@@ -18,4 +18,7 @@ links:
   - type: Launchpad
     name: Launchpad (Code)
     url: ~mpstark/+junk/system-monitor
+    
+screenshots:
+  - System Monitor.png
 ---

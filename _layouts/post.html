@@ -21,18 +21,16 @@ layout: default
 
   <footer>
 
-    <div class="date">
+    <a class="date" href="https://github.com/quassy/elementary-apps/commits/gh-pages/{{ page.path }}">
       <span class="octicon octicon-calendar"></span>
-      {% if post.created != post.updated %}
-        Published {{ post.created }}, last updated {{ post.updated }}
-      {% else %}
-        Published {{ post.created }}
-      {% endif %}
-    </div>  
+        {% if post.created != post.updated %}
+          Published {{ post.created }}, last updated {{ post.updated }}
+        {% else %}
+          Published {{ post.created }}
+        {% endif %}
+    </a>
 
-    <div>
-      <a class="b" href="https://github.com/quassy/elementary-apps/edit/gh-pages/{{ page.path }}"><span class="octicon octicon-pencil"></span> Improve this entry on GitHub!</a>
-    </div>
+    <a class="b" href="https://github.com/quassy/elementary-apps/edit/gh-pages/{{ page.path }}"><span class="octicon octicon-pencil"></span> Improve this entry on GitHub!</a>
 
   </footer>
 
