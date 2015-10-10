@@ -2,7 +2,7 @@
 
 layout: app
 created: 2015-01-07
-updated: 2015-04-28
+updated: 2015-10-10
 
 permalink: /VNC-Cient/
 title_obvious: true
@@ -18,6 +18,9 @@ links:
   - type: Launchpad
     url: evnc
 
+screenshots:
+  - VNC-Client.png
+    
 installation:
   - system: elementary
     info:
