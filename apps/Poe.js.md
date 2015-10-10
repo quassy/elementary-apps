@@ -18,10 +18,6 @@ links:
     url: 'http://ryanriffle.github.io/Poe'
   - type: GitHub
     url: 'RyanRiffle/Poe'
-
-tags:
-  - HTML5
-  - CoffeeScript
 ---
 
 As Poe.js is a web app, you can try [the demo](http://ryanriffle.github.io/Poe/demo/app.html) in your browser.

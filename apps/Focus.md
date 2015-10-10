@@ -24,10 +24,6 @@ installation:
       repository: 'ppa:justsomedood/justsomeelementary'
       package: focus
       type: stable
-
-tags:
-  - GTK+3
-  - Vala
 ---
 ## Video
 A review by [Joaquín Padilla Rivero](https://www.youtube.com/channel/UC_im4PuM9ViTNjaUf2cXmgg)

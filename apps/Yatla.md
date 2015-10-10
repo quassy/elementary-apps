@@ -16,11 +16,6 @@ authors:
 links:
   - type: GitHub
     url: denis631/Yatla
-
-tags:
-  - GTK3
-  - Vala
-  - sqlheavy
 ---
 
 ## Video

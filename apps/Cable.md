@@ -45,11 +45,6 @@ installation:
       repository: 'ppa:versable/elementary-update'
       package: cable
       type: unstable
-
-tags:
-  - GTK3
-  - Vala
-  - Freya
 ---
 
 *As of 2015-03-21 the [last commit](https://code.launchpad.net/cable) was on 2014-02-22. The project might be dead.*

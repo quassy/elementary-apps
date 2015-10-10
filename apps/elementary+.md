@@ -46,9 +46,4 @@ installation:
       repository: 'ppa:justsomedood/justsomeelementary'
       package: elementary-plus
       type: unstable
-
-tags:
-  - Icons
-  - Luna
-  - Freya
 ---

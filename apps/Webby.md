@@ -40,11 +40,6 @@ installation:
       repository: 'ppa:erasmo-marin/webby-browser'
       package: webby-browser
       type: unstable
-
-tags:
-  - Vala
-  - GTK3
-  - Freya
 ---
 ## Video
 A review by [Joaquín Padilla Rivero](https://www.youtube.com/channel/UC_im4PuM9ViTNjaUf2cXmgg)

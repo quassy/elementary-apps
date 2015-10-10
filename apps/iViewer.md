@@ -19,9 +19,6 @@ links:
 
 screenshots:
   - iViewer.png
-
-tags:
-  - Apple
 ---
 
 Information about installing iViewer from a zip file can be found in this [post by the developer](https://plus.google.com/116970085465259483479/posts/aSn5LaQSt2x).

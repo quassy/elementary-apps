@@ -68,12 +68,6 @@ installation:
       repository: 'http://download.opensuse.org/repositories/home:ivonunes/openSUSE_13.1/home:ivonunes.repo'
       package: birdie
       type: stable
-
-tags:
-  - Granite
-  - GTK3
-  - Vala
-  - Freya
 ---
 ## Video
 A review by [Joaquín Padilla Rivero](https://www.youtube.com/channel/UC_im4PuM9ViTNjaUf2cXmgg)

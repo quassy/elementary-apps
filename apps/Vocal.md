@@ -60,13 +60,6 @@ installation:
       repository: 'ppa:nathandyer/vocal-daily'
       package: vocal
       type: daily
-
-tags:
-  - Clutter
-  - Granite
-  - GTK3
-  - Vala
-  - Freya
 ---
 ## Video
 A review by [Joaquín Padilla Rivero](https://www.youtube.com/channel/UC_im4PuM9ViTNjaUf2cXmgg)

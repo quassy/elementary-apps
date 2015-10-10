@@ -44,11 +44,6 @@ installation:
       repository: 'ppa:siasola/ppa'
       package: elementary-calculator
       type: unstable
-
-tags:
-  - GTK3
-  - Vala
-  - Freya
 ---
 
 *As of 2015-03-21 the [last commit](https://code.launchpad.net/elementarycalculator) was on 2014-10-23, the project might be dead. By now elementary features [Pantheon Calculator](/Pantheon Calcultor) as a new default and native calculator.*

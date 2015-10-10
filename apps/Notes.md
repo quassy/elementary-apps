@@ -24,11 +24,6 @@ links:
 
 screenshots:
   - Notes.png
-
-tags:
-  - GTK3
-  - Vala
-  - Freya
 ---
 ## Video
 

@@ -32,9 +32,4 @@ installation:
 
 screenshots:
   - Configurator.png
-
-tags:
-  - GTK3
-  - Vala
-  - Freya
 ---

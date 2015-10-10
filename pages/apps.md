@@ -15,8 +15,8 @@ We currently have {{ site.pages | size }} [apps]({{ site.baseurl }}/apps/) and p
     </tr>
   </thead>
   <tbody>
-    {% assign sorted = site.pages | sort:"updated" | reverse %}
-    {% for post in sorted | sort:"updated" | reverse %}
+    {% assign sorted = site.pages | sort:"updated" %}
+    {% for post in sorted | sort:"updated" %}
       {% if post.layout == 'app' && post.published != 'false' %}
         <tr id="{{ post.url }}">
           <td>

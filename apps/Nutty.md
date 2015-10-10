@@ -42,10 +42,4 @@ installation:
       repository: 'ppa:bablu-boy/nutty-daily'
       package: nutty
       type: daily
-
-tags:
-  - Granite
-  - GTK3
-  - Vala
-  - Freya
 ---

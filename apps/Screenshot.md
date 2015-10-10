@@ -27,9 +27,6 @@ installation:
       repository: 'ppa:fabiozaramella/screenshot-tool'
       package: screenshot-tool
       type: stable
-
-tags:
-  - Vala
 ---
 ## Video
 A review by [Joaquín Padilla Rivero](https://www.youtube.com/channel/UC_im4PuM9ViTNjaUf2cXmgg)

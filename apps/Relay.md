@@ -46,10 +46,5 @@ installation:
       package: relay
       type: stable
 
-tags:
-  - GTK3
-  - Vala
-  - Freya
-
 redirect_from: /KyRC/
 ---

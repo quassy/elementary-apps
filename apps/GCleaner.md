@@ -20,12 +20,6 @@ links:
 screenshots:
   - Squeegee.png
 
-tags:
-  - Vala
-  - GTK3
-  - Granite
-  - Freya
-
 redirect_from: '/Squeegee/'
 ---
 

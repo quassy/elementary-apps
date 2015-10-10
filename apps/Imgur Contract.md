@@ -36,8 +36,4 @@ installation:
       repository: 'ppa:cybre/imgurcontract'
       package: imgur-contract
       type: stable
-
-tags:
-  - Luna
-  - Freya
 ---

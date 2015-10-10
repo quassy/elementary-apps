@@ -47,13 +47,6 @@ installation:
       repository: 'ppa:erasmo-marin/foto-1.0'
       package: foto
       type: unstable
-
-tags:
-  - GTK3
-  - Clutter
-  - Cairo
-  - Granite
-  - Vala
 ---
 ## Video
 A review by [Joaquín Padilla Rivero](https://www.youtube.com/channel/UC_im4PuM9ViTNjaUf2cXmgg)

@@ -36,8 +36,4 @@ installation:
       repository: 'ppa:cybre/hastebincontract'
       package: hastebin-contract
       type: stable
-
-tags:
-  - Luna
-  - Freya
 ---

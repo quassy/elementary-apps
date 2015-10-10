@@ -21,8 +21,4 @@ links:
     url: 'https://github.com/nathandyer/elementary-dropbox-mods/blob/master/README.md'
   - type: License
     url: 'https://github.com/nathandyer/elementary-dropbox-mods/blob/master/LICENSE'
-
-tags:
-  - Luna
-  - Freya
 ---

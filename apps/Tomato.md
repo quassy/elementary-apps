@@ -33,10 +33,4 @@ installation:
       repository: 'ppa:tomato-team/tomato-stable'
       package: tomato
       type: stable
-
-tags:
-  - GTK3
-  - Vala
-  - Granite
-  - Freya
 ---

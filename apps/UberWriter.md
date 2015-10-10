@@ -36,9 +36,6 @@ installation:
       repository: stock
       package: uberwriter
       type: stable
-
-tags:
-  - Freya
 ---
 
 Get [UberWriter](apt://uberwriter) at the Ubuntu Software Center and support the developer!

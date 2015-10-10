@@ -35,11 +35,6 @@ installation:
       repository: 'ppa:donadigo/eutility'
       package: eutility
       type: stable
-
-tags:
-  - GTK3
-  - Vala
-  - Freya # available for Freya
 ---
 ## Video
 A review by [Joaquín Padilla Rivero](https://www.youtube.com/channel/UC_im4PuM9ViTNjaUf2cXmgg)

@@ -29,12 +29,6 @@ installation:
       package: calculus
       type: stable
 
-tags:
-  - stock
-  - official
-  - Vala
-  - GTK3
-
 redirect_from: "/Calculus/"
 ---
 

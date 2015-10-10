@@ -36,11 +36,4 @@ installation:
       repository: 'ppa:hourglass-team/hourglass-daily'
       package: hourglass
       type: daily
-
-tags:
-  - Granite
-  - GTK3
-  - Vala
-
-  - Freya
 ---

@@ -25,7 +25,4 @@ links:
 
 screenshots:
   - Metronome.png
-
-tags:
-  - Freya
 ---
