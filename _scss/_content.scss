@@ -36,11 +36,10 @@ a {
 }
 
 blockquote {
-  margin: 15px 8px;
-  border-left: 2px solid $grey;
-  padding: 4px 12px;
+  margin: 15px 0;
   color: $grey;
   font-style: italic;
+  text-align: center;
 }
 
 // Lists
@@ -162,7 +161,7 @@ th {
     img {
       border-top-left-radius: 5px; /* not perfect, but hides that I cut the window borders badly */
       border-top-right-radius: 5px;
-      box-shadow: 0 10px 50px 5px rgba(0, 0, 0, .5);
+      box-shadow: 0 10px 50px 5px rgba(0, 0, 0, .4);
       border: 1px solid rgba(0, 0, 0, .5);
       margin:16px 0;
     }
