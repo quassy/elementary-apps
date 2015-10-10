@@ -2,7 +2,7 @@
 
 layout: app
 created: 2015-01-07
-updated: 2015-04-28
+updated: 2015-10-10
 
 permalink: /elementary Tweaks/
 generic: customization
@@ -18,26 +18,23 @@ authors:
     url: "https://launchpad.net/~uwes"
   - name: George Chalkitis
     url: "https://launchpad.net/~chalkitisge"
+  - name: Perfect Carl
+    url: "https://github.com/PerfectCarl"
 
 links:
   - type: Launchpad
     url: elementary-tweaks
+  - type: GitHub
+    url: I-hate-farms/elementary-tweaks
 
 screenshots:
   - elementary Tweaks.png
-
-installation:
-  - system: elementary
-    info:
-    - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: elementary-tweaks
-      type: stable
-    - version: 0.3
-      repository: 'ppa:mpstark/elementary-tweaks-daily'
-      package: elementary-tweaks
-      type: unstable
 ---
+## Installation
+Install i-hate-farms repository (not necessary if already done)
+    curl -sL  http://i-hate-farms.github.io/spores/install | sudo bash - 
+    sudo apt-get install elementary-tweaks
+
 ## Video
 A review by [Joaquín Padilla Rivero](https://www.youtube.com/channel/UC_im4PuM9ViTNjaUf2cXmgg)
 

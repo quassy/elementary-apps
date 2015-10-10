@@ -7,7 +7,7 @@ updated: 2015-07-11
 permalink: /elementary+/
 generic: icon set
 description: A collection of several third party icons and scripts for panel indicators as an addition to the default icon theme.
-license: TBD
+license: GPL v3
 
 authors:
   - name: Manuel Kehl

@@ -7,7 +7,7 @@ updated: 2015-04-28
 permalink: /Radio Tray/
 generic: indicator
 description: Radio Tray is an online radio streaming player that runs on a Linux system tray. Its goal is to have the minimum interface possible, making it very straightforward to use.
-license:
+license: GPL v1
 
 authors:
   - name: Carlos Ribeiro
