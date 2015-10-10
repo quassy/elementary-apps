@@ -4,7 +4,7 @@
     {% include meta.html %}
 
     <title>
-      {% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}
+    {% if page.title %}{{ page.title }} – {% elsif page.layout == 'app' %}{{ page.name | remove: ".md" }} – {% endif %}}{{ site.name }}
     </title>
 
     <!--[if lt IE 9]>
