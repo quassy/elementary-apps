@@ -30,14 +30,17 @@ links:
 screenshots:
   - elementary Tweaks.png
 ---
-## Installation
-Install i-hate-farms repository (not necessary if already done)
 
-```
-curl -sL  http://i-hate-farms.github.io/spores/install | sudo bash - 
-sudo apt-get install elementary-tweaks
-```
-    
+<h2 id="installation">Installation</h2>
+<p><b>Behold!</b> Third-party repositories are usually not verified by others. Follow these instructions only if you trust the owner of the repository and developer of the software. Opt for only one installation option if multiple are offered for your system. Use at your own risk!</p>
+<h3 id="installation-{{ dist.system }}">{{ dist.system }}</h3>
+<p>Add a repository for elementary version 0.3 to install the software, by entering the following commands in a terminal:</p>
+<div class="highlight">
+  <span class="mega-octicon octicon-terminal"></span>
+  <pre><code>curl -sL  http://i-hate-farms.github.io/spores/install | sudo bash - 
+sudo apt-get install elementary-tweaks</code></pre>
+</div>
+
 ## Video
 A review by [Joaquín Padilla Rivero](https://www.youtube.com/channel/UC_im4PuM9ViTNjaUf2cXmgg)
 
