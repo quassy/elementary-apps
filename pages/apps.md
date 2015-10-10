@@ -4,7 +4,7 @@ title: Apps for elementary
 permalink: /apps/
 ---
 
-We currently have {{ site.pages | size }} [apps]({{ site.baseurl }}/apps/) and pieces of [art]({{ site.baseurl }}/art/) in our database. Something missing? [*Report it at GitHub.*](https://github.com/quassy/elementary-apps/issues/new)
+We currently have {{ site.pages | size }} [apps]({{ site.baseurl }}/apps/) and pieces of [art]({{ site.baseurl }}/art/) in our database. Something missing? [**Report it at GitHub.**](https://github.com/quassy/elementary-apps/issues/new)
 
 <table class="overview tablesorter">
   <thead>
@@ -24,7 +24,7 @@ We currently have {{ site.pages | size }} [apps]({{ site.baseurl }}/apps/) and p
               {% if post.title %}{{ post.title }}{% else %}{{ post.name | remove: ".md" }}{% endif %}
             </a>
             {% if post.installation %}<span class="octicon octicon-package" title="Package available"></span>{% endif %}
-            {% if post.screenshots != '' %}<span class="octicon octicon-device-desktop" title="Screenshot missing" style="color:#c00;"></span>{% endif %}
+            {% if post.screenshots %} {% else %}<span class="octicon octicon-device-desktop" title="Screenshot missing" style="color:#c00;"></span>{% endif %}
             <br/>
             {% include list_links.html %}
           </td>
