@@ -18,7 +18,7 @@ authors:
     url: "https://launchpad.net/~uwes"
   - name: George Chalkitis
     url: "https://launchpad.net/~chalkitisge"
-  - name: Perfect Carl
+  - name: PerfectCarl
     url: "https://github.com/PerfectCarl"
 
 links:
@@ -32,9 +32,12 @@ screenshots:
 ---
 ## Installation
 Install i-hate-farms repository (not necessary if already done)
-    curl -sL  http://i-hate-farms.github.io/spores/install | sudo bash - 
-    sudo apt-get install elementary-tweaks
 
+```
+curl -sL  http://i-hate-farms.github.io/spores/install | sudo bash - 
+sudo apt-get install elementary-tweaks
+```
+    
 ## Video
 A review by [Joaquín Padilla Rivero](https://www.youtube.com/channel/UC_im4PuM9ViTNjaUf2cXmgg)
 
