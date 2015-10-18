@@ -16,4 +16,7 @@ authors:
 links:
   - type: GitHub
     url: mariocesar/pomodoro-elementary
+    
+screenshots:
+  - Pomodoro.png
 ---
