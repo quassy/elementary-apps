@@ -9,6 +9,6 @@ permalink: /style/
 
   <div class="entry">
     ## Eine Überschrift 2
-    Ein toller [Link](http://google.com).
+    Ein toller [Link](https://google.com).
   </div>
 </article>

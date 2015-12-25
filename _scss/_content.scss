@@ -101,7 +101,7 @@ th {
 }
 th {
   width: 33%;
-}   
+}
 
 // Selection
 ::-moz-selection {
@@ -124,9 +124,10 @@ th {
   border-bottom: none;
 }
 
-.post { 
+.post {
   header, header a {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
   }
   header p {
@@ -146,12 +147,12 @@ th {
     color: $base3;
     justify-content: left;
     align-items: center;
-    
+
     .mega-octicon {
         margin:0 8px;
     }
   }
-  
+
   .comments {
     margin-top: 10px;
   }
