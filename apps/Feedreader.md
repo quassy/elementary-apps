@@ -16,9 +16,11 @@ authors:
 
 links:
   - type: Web
-    url: "https://jangernert.github.io/feedreader/"
+    url: "http://jangernert.github.io/FeedReader/"
   - type: Launchpad
     url: feedreader
+  - type: Github
+    url: jangernert/FeedReader
   - type: License
     url: "http://bazaar.launchpad.net/~eviltwin1/feedreader/master/view/head:/COPYING"
 
@@ -28,11 +30,11 @@ screenshots:
 installation:
   - system: elementary
     info:
-    - version: 0.3
+    - version: 1.4.3
       repository: 'ppa:eviltwin1/feedreader-stable'
       package: feedreader
       type: stable
-    - version: 0.3
+    - version: 1.4.3
       repository: 'ppa:eviltwin1/feedreader-daily'
       package: feedreader
       type: daily
