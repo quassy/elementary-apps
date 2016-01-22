@@ -16,7 +16,9 @@ authors:
 
 links:
   - type: Web
-    url: "https://jangernert.github.io/feedreader/"
+    url: "https://jangernert.github.io/FeedReader/"
+  - type: GitHub
+    url: jangernert/FeedReader
   - type: Launchpad
     url: feedreader
   - type: License
