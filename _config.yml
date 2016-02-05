@@ -5,7 +5,7 @@ name: elementary apps
 description: 3rd party elementary software
 description_html: 3rd party <a href="http://elementary.io">elementary</a> software
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
+# URL of your avatar or profile pic
 avatar: /elementary-apps/img/apps-logo_4x64.png
 
 # Includes an icon in the footer for each username you enter
@@ -41,21 +41,13 @@ url: https://quassy.github.io/elementary-apps
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/elementary-apps"
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
-
-markdown: kramdown
-highlighter: pygments
+# Advanced config
 permalink: /:title
-
-# The release of Jekyll Now that you're using
-version: v1.0.0
 
 # Set the Sass partials directory, as we're using @imports
 sass:
   sass_dir: _scss
-  style: :compressed # / :expanded You might prefer to minify using :compressed
+  style: :compressed 
 
 # Use the following plug-ins
 gems:
