@@ -21,6 +21,8 @@ links:
     url: jangernert/FeedReader
   - type: Launchpad
     url: feedreader
+  - type: Translations
+    url : "https://www.transifex.com/dev-feedreader/feedreader/"
   - type: License
     url: "http://bazaar.launchpad.net/~eviltwin1/feedreader/master/view/head:/COPYING"
 
