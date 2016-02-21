@@ -24,7 +24,7 @@ links:
   - type: Translations
     url : "https://www.transifex.com/dev-feedreader/feedreader/"
   - type: License
-    url: "http://bazaar.launchpad.net/~eviltwin1/feedreader/master/view/head:/COPYING"
+    url: "https://bazaar.launchpad.net/~eviltwin1/feedreader/trunk-1/view/head:/COPYING"
 
 screenshots:
   - FeedReader.png
