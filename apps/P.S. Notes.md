@@ -11,7 +11,7 @@ description: Plain-text notes for fast and easy editing. Made to work well with 
 license: GPL v3
 
 authors:
-  - name: BurnSoftwae
+  - name: BurnSoftware
     url: 'https://burnsoftware.wordpress.com/'
 
 links:
