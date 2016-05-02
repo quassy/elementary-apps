@@ -16,7 +16,7 @@ Name | Info | Developer
 [**Firefox** headerbar](https://github.com/chpii/Headerbar) | Firefox add-ons | [Svitozar Cherepii](https://github.com/chpii)
 [**Grub2** Radiano Theme](https://github.com/Jguer/Radiano-Grub-Theme) | elementary inspired Grub theme | [John Guerreiro](https://plus.google.com/116260608900119852444/)
 [**Sublime Text**](https://github.com/samuelrafo/elementary) ([DeviantArt](http://srff.deviantart.com/art/Elementary-for-Sublime-Text-updated-393125257)) | Sublime theme | [Samuel Rafo](https://github.com/samuelrafo)
-[**Sublime Text 3**](https://github.com/piqus/sublime-elementary) (fork of [samuelrafo](https://github.com/samuelrafo/elementary) theme) | Sublime theme | [Piot Kubisa](https://github.com/piqus)
+[**Sublime Text 3**](https://github.com/piotrkubisa/sublime-elementary) (fork of [samuelrafo](https://github.com/samuelrafo/elementary) theme) | Sublime theme | [Piot Kubisa](https://github.com/piotrkubisa)
 [**Thunderbird**](https://github.com/alxlit/elementary-thunderbird) ([MOZ](https://addons.mozilla.org/de/thunderbird/addon/elementary-thunderbird/?src=search), inactive?)| Thunderbird add-on | [*alxlit*](https://github.com/alxlit)
 [**Wallpapers (DB)**](https://www.dropbox.com/sh/79552p64tto7wbc/MSPgrgWfYa) ([GD](https://drive.google.com/folderview?id=0B4KUARZUQ-n_X1FrY29XVXpHUTQ&usp=sharing)) | Wallpapers | [Brian Bentsen](https://plus.google.com/109395049570451231471)
 
