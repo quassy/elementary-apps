@@ -27,22 +27,6 @@ links:
 
 screenshots:
   - eRadio.png
-
-installation:
-  - system: elementary
-    info:
-    - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: eradio
-      type: stable
-    - version: 0.3
-      repository: 'ppa:dreamdev/stable'
-      package: eradio
-      type: stable
-    - version: 0.3
-      repository: 'ppa:dreamdev/daily'
-      package: eradio
-      type: daily
 ---
 ## Video
 A review by [Joaquín Padilla Rivero](https://www.youtube.com/channel/UC_im4PuM9ViTNjaUf2cXmgg)

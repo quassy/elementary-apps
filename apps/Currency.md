@@ -26,10 +26,6 @@ installation:
       repository: 'ppa:grabli66-r/eos'
       package: currency
       type: stable
-    - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: currency
-      type: stable
   - system: Ubuntu
     info:
     - version: 14.04

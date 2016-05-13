@@ -27,12 +27,4 @@ links:
 
 screenshots:
   - Atlas Maps.png
-
-installation:
-  - system: elementary
-    info:
-    - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: atlas-maps
-      type: stable
 ---

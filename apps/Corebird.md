@@ -21,18 +21,4 @@ links:
 
 screenshots:
   - Corebird.png
-
-installation:
-  - system: elementary
-    info:
-    - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: corebird
-      type: stable
-  - system: Ubuntu
-    info:
-    - version: 14.04
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: corebird
-      type: stable
 ---

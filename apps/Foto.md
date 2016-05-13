@@ -34,10 +34,6 @@ installation:
   - system: elementary
     info:
     - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: foto
-      type: stable
-    - version: 0.3
       repository: 'ppa:erasmo-marin/foto-1.0'
       package: foto
       type: unstable

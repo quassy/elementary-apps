@@ -17,12 +17,4 @@ authors:
 links:
   - type: GitHub
     url: pfragoso/indicator-usb
-
-installation:
-  - system: elementary
-    info:
-    - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: indicator-usb
-      type: stable
 ---

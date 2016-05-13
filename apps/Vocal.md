@@ -39,10 +39,6 @@ installation:
   - system: elementary
     info:
     - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: vocal
-      type: stable
-    - version: 0.3
       repository: 'ppa:nathandyer/vocal-daily'
       package: vocal
       type: daily

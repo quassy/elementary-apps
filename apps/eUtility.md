@@ -28,10 +28,6 @@ installation:
   - system: elementary
     info:
     - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: eutility
-      type: stable
-    - version: 0.3
       repository: 'ppa:donadigo/eutility'
       package: eutility
       type: stable

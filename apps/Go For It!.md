@@ -26,10 +26,6 @@ installation:
   - system: elementary
     info:
     - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: go-for-it
-      type: stable
-    - version: 0.3
       repository: 'ppa:mank319/go-for-it'
       package: go-for-it
       type: stable

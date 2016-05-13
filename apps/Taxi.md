@@ -25,14 +25,6 @@ links:
 
 screenshots:
   - Taxi.png
-
-installation:
-  - system: elementary
-    info:
-    - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: taxi
-      type: stable
 ---
 
 *As of 2015-03-21 the [last commit](https://code.launchpad.net/taxi) was on 2014-10-28, the project might be dead.*

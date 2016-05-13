@@ -24,10 +24,6 @@ installation:
   - system: elementary
     info:
     - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: mark-my-words
-      type: stable
-    - version: 0.3
       repository: 'ppa:voldyman/markmywords'
       package: mark-my-words
       type: stable

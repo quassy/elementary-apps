@@ -26,14 +26,6 @@ installation:
 
 screenshots:
   - Translator.png
-      
-installation:
-  - system: elementary
-    info:
-    - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: translator
-      type: stable
 ---
 ## Video
 A review by [Joaquín Padilla Rivero](https://www.youtube.com/channel/UC_im4PuM9ViTNjaUf2cXmgg)

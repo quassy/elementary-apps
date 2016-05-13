@@ -20,12 +20,4 @@ links:
     url: "http://bazaar.launchpad.net/~costales/anoise/player/view/head:/README"
   - type: License
     url: "http://bazaar.launchpad.net/~costales/anoise/player/view/head:/COPYING.GPL3"
-
-installation:
-  - system: elementary
-    info:
-    - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: anoise
-      type: stable
 ---

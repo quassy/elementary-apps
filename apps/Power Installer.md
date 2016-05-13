@@ -23,10 +23,6 @@ installation:
   - system: elementary
     info:
     - version: '0.3'
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: power-installer
-      type: stable
-    - version: '0.3'
       repository: 'ppa:donadigo/power-installer'
       package: power-installer
       type: stable

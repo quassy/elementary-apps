@@ -26,10 +26,6 @@ installation:
   - system: elementary
     info:
     - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: envelope
-      type: stable
-    - version: 0.3
       repository: 'ppa:nicolas-laplante/envelope-daily'
       package: envelope
       type: unstable

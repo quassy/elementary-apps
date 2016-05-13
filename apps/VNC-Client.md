@@ -25,10 +25,6 @@ installation:
   - system: elementary
     info:
     - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: evnc
-      type: stable
-    - version: 0.3
       repository: 'ppa:l-admin-3/apps-daily'
       package: evnc
       type: daily

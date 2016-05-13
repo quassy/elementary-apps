@@ -24,10 +24,6 @@ installation:
   - system: elementary
     info:
     - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: indicator-terminal
-      type: stable
-    - version: 0.3
       repository: 'ppa:gotwig/weekly'
       package: indicator-terminal
       type: unstable

@@ -19,12 +19,4 @@ links:
     url: 'http://dysonsimmons.com/indicator-workspaces/'
   - type: GitHub
     url: dyson/indicator-workspaces
-
-installation:
-  - system: elementary
-    info:
-    - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: indicator-workspaces
-      type: stable
 ---

@@ -27,10 +27,6 @@ installation:
   - system: elementary OS
     info:
     - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: webby-browser
-      type: stable
-    - version: 0.3
       repository: 'ppa:erasmo-marin/webby-browser'
       package: webby-browser
       type: unstable

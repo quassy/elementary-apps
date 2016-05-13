@@ -26,10 +26,6 @@ installation:
   - system: elementary
     info:
     - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: nasc
-      type: stable
-    - version: 0.3
       repository: 'ppa:nasc-team/daily'
       package: nasc
       type: daily

@@ -12,6 +12,4 @@ license:
 authors:
   - name: Adam Bieńkowski (donadigo)
     url: "https://launchpad.net/~donadigo"
-
-links:
 ---

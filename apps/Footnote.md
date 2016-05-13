@@ -26,10 +26,6 @@ installation:
   - system: elementary
     info:
     - version: 0.3
-      repository: 'ppa:justsomedood/justsomeelementary'
-      package: footnote
-      type: stable
-    - version: 0.3
       repository: 'ppa:elementary-os/daily'
       package: footnote
       type: daily
