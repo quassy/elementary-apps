@@ -2,10 +2,9 @@
 layout: page
 title: Readme
 permalink: /readme/
-redirect_from: /about/
 ---
 
-**elementary apps** is a resource for 3rd party software designed for [elementary (OS)](http://elementary.io), a fast and open desktop operating system. It was was started on 1st January 2015 at [r/elementaryos](https://www.reddit.com/r/elementaryos/comments/2r0xey/third_party_development_and_apps/), [with](http://madeforelementary.tumblr.com/) [some](https://github.com/PerfectCarl/elementary-apps) [inspiration](https://github.com/elementary-fr/ideas). It is now hosted on GitHub ([repository](https://github.com/{{ site.footer-links.github }})), so if you find an error or want to add an app, [file a report](https://github.com/{{ site.footer-links.github }}/issues/new) or join the [chat](https://gitter.im/{{ site.footer-links.github }}).
+**elementary apps** is a resource for 3rd party software designed for [elementary (OS)](http://elementary.io), a fast and open desktop operating system. It was was started on 1st January 2015 at [r/elementaryos](https://www.reddit.com/r/elementaryos/comments/2r0xey/third_party_development_and_apps/), [with](http://madeforelementary.tumblr.com/) [some](https://github.com/PerfectCarl/elementary-apps) [inspiration](https://github.com/elementary-fr/ideas). It is now hosted on GitHub ([repository](https://github.com/quassy/elementary-apps)), so if you find an error or want to add an app, [file a report](https://github.com/quassy/elementary-apps/issues/new) or join the [chat](https://gitter.im/quassy/elementary-apps).
 
 ## Contribute
 
@@ -22,7 +21,7 @@ Guidelines:
 
 ### Screenshot
 
-Every app should have at least one, high-quality screenshot ([issue #2](https://github.com/{{ site.footer-links.github }}/issues/2)).
+Every app should have at least one, high-quality screenshot ([issue #2](https://github.com/quassy/elementary-apps/issues/2)).
 
 Guidelines:
 
@@ -34,11 +33,7 @@ Guidelines:
 
 ### Blogroll
 
-* [LME Linux](http://lmelinux.net/#2015-12-10)
-* [fuck yeah, elementary OS!](http://fuckyeah-elementaryos.tumblr.com/#2015-10-25)
-* [elementary now](http://www.elementarynow.com/#2015-04-18)
-* [elementary OS Snippets](http://eos-snippets.blogspot.com/#2015-04-17)
-* [Made for elementary](http://madeforelementary.tumblr.com/#2015-02-14)
+* [LME Linux](http://lmelinux.net/#2016-05-07)
 
 ### Community sites
 
@@ -54,7 +49,7 @@ Guidelines:
 * [Patreon](https://www.patreon.com/elementary)
 * [Bountysource](https://www.bountysource.com/teams/elementary/bounties)
 * [deviantArt](http://elementaryos.deviantart.com/) (designs and mockups)
-* [Google+](https://plus.google.com/114635553671833442612)
+* [Google+](https://plus.google.com/+elementary)
 * [Twitter](https://twitter.com/elementary)
 
 ## Credits
