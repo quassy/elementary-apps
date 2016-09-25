@@ -20,7 +20,7 @@ links:
   - type: Launchpad
     url: nutty
   - type: Google+
-    url: 108373005915819607337/posts/awE9Zuc9Cmc
+    url: collection/8dedV
   # Link to website with install instructions (for normal users)
   # Link to instructions for build, readme, license
   - type: License
@@ -38,17 +38,14 @@ installation:
   - system: elementary
     info:
     - version: '0.3'
-      repository: 'ppa:bablu-boy/nutty.0.1'
+      repository: 'ppa:bablu-boy/nutty'
       package: nutty
       type: stable
-    - version: '0.3'
-      repository: 'ppa:bablu-boy/nutty-daily'
-      package: nutty
-      type: daily
 
 tags:
   - Granite
   - GTK3
   - Vala
   - Freya
----
+  - Loki
+--- 
