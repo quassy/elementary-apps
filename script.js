@@ -1,17 +1,19 @@
 ---
 ---
-// Table sort
+// Lazy loading
 $(document).ready(function() {
   $("img").unveil();
 });
+// Table sort
 $(function(){
   $(".tablesorter").tablesorter();
 });
+// Redirect https
 if (window.location.protocol !== 'https:') {
   window.location = 'https://' + window.location.hostname + window.location.pathname + window.location.hash;
 }
 {% if site.piwik_analytics %}
-// Piwik
+  // Piwik
   var _paq = _paq || [];
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
