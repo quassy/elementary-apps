@@ -30,14 +30,14 @@ screenshots:
 installation:
   - system: elementary
     info:
-    - version: Stable
+    - version: 0.4
       repository: 'ppa:eviltwin1/feedreader-stable'
       package: feedreader
       type: stable
-    - version: Development
-      repository: 'ppa:eviltwin1/feedreader-daily'
+    - version: 0.3
+      repository: 'ppa:eviltwin1/feedreader-stable'
       package: feedreader
-      type: daily
+      type: stable
 ---
 ## Video
 A review by [Joaquín Padilla Rivero](https://www.youtube.com/channel/UC_im4PuM9ViTNjaUf2cXmgg)
