@@ -2,7 +2,7 @@
 published: true
 layout: app
 created: 2016-04-15
-updated: 2016-04-15
+updated: 2017-01-27
 
 permalink: /Notes Up/
 title_obvious: true
@@ -32,8 +32,8 @@ screenshots:
 installation:
   - system: elementary
     info:
-    - version: '0.3'
-      repository: 'ppa:philip.scott/projects'
+    - version: '1.3'
+      repository: 'ppa:philip.scott/notes-up'
       package: notes-up
       type: stable
 ---
