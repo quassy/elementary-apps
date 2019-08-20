@@ -1,0 +1,17 @@
+---
+layout: null
+---
+{
+  "name": "{{ site.name | xml_escape }}",
+  "short_name": "{{ site.name | xml_escape }}",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color":"#ffffff",
+  "icons": [
+    {
+      "src": "./img/apps-logo_apple.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }]
+}
