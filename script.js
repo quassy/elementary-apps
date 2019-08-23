@@ -25,3 +25,12 @@ if (window.location.protocol !== 'https:') {
     g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
 {% endif %}
+
+// if site.pwa:
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('{{ site.baseurl }}/sw.js', { scope: '{{ site.baseurl }}/' }).then(function(reg) {
+    console.log('Service worker registered. Scope: ' + reg.scope);
+  }).catch(function(error) {
+    console.log('Service worker failed to register with error: ' + error);
+  });
+};
