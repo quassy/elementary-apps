@@ -85,11 +85,6 @@
   {% include analytics.html %}
   {% include analytics-piwik.html %}
   <script type="text/javascript" src="{{ site.baseurl }}/script.js"></script>  
-  <script>
-    if('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('{{ site.baseurl }}/sw.js');
-    };
-  </script> 
  
 </body>
 </html>
