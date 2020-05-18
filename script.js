@@ -12,13 +12,13 @@ $(function(){
 if (window.location.protocol !== 'https:') {
   window.location = 'https://' + window.location.hostname + window.location.pathname + window.location.hash;
 }
-{% if site.piwik_analytics %}
+{% if site.matomo_analytics %}
   // Piwik
   var _paq = window._paq || [];
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
-    var u="//qxy.uber.space/piwik/";
+    var u="{{ site.matomo_analytics }}";
     _paq.push(['setTrackerUrl', u+'matomo.php']);
     _paq.push(['setSiteId', '13']);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
