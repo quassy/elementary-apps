@@ -18,7 +18,7 @@ if (window.location.protocol !== 'https:') {
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
-    var u="//quassy.rasalhague.uberspace.de/piwik/";
+    var u="//qxy.uber.space/piwik/";
     _paq.push(['setTrackerUrl', u+'piwik.php']);
     _paq.push(['setSiteId', 13]);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
