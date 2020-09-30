@@ -4,7 +4,7 @@ title: Readme
 permalink: /readme/
 ---
 
-**elementary apps** is a resource for 3rd party software designed for [elementary (OS)](http://elementary.io), a fast and open desktop operating system. It was was started on 1st January 2015 at [r/elementaryos](https://www.reddit.com/r/elementaryos/comments/2r0xey/third_party_development_and_apps/), [with](http://madeforelementary.tumblr.com/) [some](https://github.com/PerfectCarl/elementary-apps) [inspiration](https://github.com/elementary-fr/ideas). It is now hosted on GitHub ([repository](https://github.com/quassy/elementary-apps)), so if you find an error or want to add an app, [file a report](https://github.com/quassy/elementary-apps/issues/new) or join the [chat](https://gitter.im/quassy/elementary-apps).
+**elementary apps** is a resource for 3rd party software designed for [elementary (OS)](http://elementary.io), a fast and open desktop operating system. It was was started on 1st January 2015 at [r/elementaryos] (https://www.reddit.com/r/elementaryos/comments/2r0xey/third_party_development_and_apps/), [with] (http://madeforelementary.tumblr.com/) [some] (https://github.com/PerfectCarl/elementary-apps) [inspiration] (https://github.com/elementary-fr/ideas). It is now hosted on GitHub ([repository](https://github.com/quassy/elementary-apps)), so if you find an error or want to add an app, [file a report] (https://github.com/quassy/elementary-apps/issues/new) or join the [chat] (https://gitter.im/quassy/elementary-apps).
 
 ## Contribute
 
@@ -16,8 +16,8 @@ Please mind, that `web` requires a whole url including `http(s)://` (https prefe
 
 Guidelines:
 
- * Apps should be targeted towards elementary and written in GTK3, exceptions may be made
- * Projects which have stopped working in the current release and have not seen updates in 4-6 months will be hidden by `published: false`
+ * Apps should be targeted towards elementary and written in GTK3, exceptions may be made.
+ * Projects which have stopped working in the current release and have not seen updates in 4-6 months will be hidden by `published: false`.
 
 ### Screenshot
 
@@ -33,32 +33,32 @@ Guidelines:
 
 ### Blogroll
 
-* [LME Linux](http://lmelinux.net/#2016-05-07)
+* [LME Linux](http://lmelinux.net/#2016-05-07).
 
 ### Community sites
 
-* [Google+](https://plus.google.com/communities/104613975513761463450)
-* [Reddit](https://www.reddit.com/r/elementaryos)
-* [elementary forums](https://elementaryforums.com) (inofficial)
+* [Google+](https://plus.google.com/communities/104613975513761463450).
+* [Reddit](https://www.reddit.com/r/elementaryos).
+* [elementary forums](https://elementaryforums.com) (inofficial).
 
 ### Other elementary links
 
-* [elementary blog](http://blog.elementary.io/#2015-04-29)
-* [Launchpad project](https://launchpad.net/elementary/)
-* [GitHub organisation](https://github.com/elementary)
-* [Patreon](https://www.patreon.com/elementary)
-* [Bountysource](https://www.bountysource.com/teams/elementary/bounties)
-* [deviantArt](http://elementaryos.deviantart.com/) (designs and mockups)
-* [Google+](https://plus.google.com/+elementary)
-* [Twitter](https://twitter.com/elementary)
+* [elementary blog](http://blog.elementary.io/#2015-04-29).
+* [Launchpad project](https://launchpad.net/elementary/).
+* [GitHub organisation](https://github.com/elementary).
+* [Patreon](https://www.patreon.com/elementary).
+* [Bountysource](https://www.bountysource.com/teams/elementary/bounties).
+* [deviantArt](http://elementaryos.deviantart.com/) (designs and mockups).
+* [Google+](https://plus.google.com/+elementary).
+* [Twitter](https://twitter.com/elementary).
 
 ## Credits
 
-* Backend originally based on [Jekyll Now](https://github.com/barryclark/jekyll-now)
-* [Octicons](https://octicons.github.com)
-* Google Webfonts for Raleway (headings), Open Sans (body), Source Code Pro (monospace)
+* Backend originally based on [Jekyll Now](https://github.com/barryclark/jekyll-now).
+* [Octicons](https://octicons.github.com).
+* Google Webfonts for Raleway (headings), Open Sans (body), Source Code Pro (monospace).
 
 Coming soon:
 
-* [FontAwesome](http://fontawesome.io) icons
-* Fonts [Neris](https://www.behance.net/gallery/11761457/Neris-%28free-font%29) and Source Code Pro
+* [FontAwesome](http://fontawesome.io) icons.
+* Fonts [Neris](https://www.behance.net/gallery/11761457/Neris-%28free-font%29) and Source Code Pro.
