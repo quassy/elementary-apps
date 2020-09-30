@@ -31,7 +31,7 @@ Guidelines:
 
 ## Links
 
-### Blogroll
+### Blog Read
 
 * [LME Linux](http://lmelinux.net/#2016-05-07)
 
