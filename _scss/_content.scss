@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6,
   }
 }
 
-h1, .h1 {font-size: 40px;}
+h1, .h1 {font-size: 35px;}// according to me this is right font size
 h2, .h2 {font-size: 30px;}
 h3, .h3 {font-size: 23px;}
 h4, .h4 {font-size: 17px;}
@@ -23,7 +23,7 @@ h6, .h6 {font-size: 15px;}
 
 // Text
 p, ul, ol {
-  margin: 15px 0;
+  margin: 10px 0;
 }
 
 a {
@@ -44,7 +44,7 @@ blockquote {
 
 // Lists
 ul, ol {
-  padding-left: 30px;
+  padding-left: 25px;//According to me this margin is good
 }
 
 ul {
@@ -92,7 +92,7 @@ table {
   width: 100%;
 }
 th, td {
-  border: 1px solid #ccc;
+  border: 2px solid #ccc; // I have changed the border pixcels this is good
   padding: .25em .5em;
 }
 th {
