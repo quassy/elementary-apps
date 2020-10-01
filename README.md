@@ -26,7 +26,7 @@ Every app should have at least one, high-quality screenshot ([issue #2](https://
 Guidelines:
 
  * Preferably show the app at work instead of just the welcome screen. For example a video player should actually play a video when the screenshot is made.
- * Only capture the application window and cut off the picture right at the window border (shadows will be added by CSS), unless interaction with the desktop environment is a vital part of the app (for example Indicators).
+ * Only capture the application window and cut off the picture right at the window border (shadows will be added by CSS), unless and until interaction with the desktop environment is a vital part of the app (for example Indicators).
  * Make the windows as big as necessary (should still look usable and beautiful), as small as possible.
 
 ## Links
