@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Readme
+title: Logr-An Amazing Project
 permalink: /readme/
 ---
 
