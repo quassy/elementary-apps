@@ -4,7 +4,7 @@ title: Readme
 permalink: /readme/
 ---
 
-**elementary apps** is a resource for 3rd party software designed for [elementary (OS)](http://elementary.io), a fast and open desktop operating system. It was was started on 1st January 2015 at [r/elementaryos](https://www.reddit.com/r/elementaryos/comments/2r0xey/third_party_development_and_apps/), [with](http://madeforelementary.tumblr.com/) [some](https://github.com/PerfectCarl/elementary-apps) [inspiration](https://github.com/elementary-fr/ideas). It is now hosted on GitHub ([repository](https://github.com/quassy/elementary-apps)), so if you find an error or want to add an app, [file a report](https://github.com/quassy/elementary-apps/issues/new) or join the [chat](https://gitter.im/quassy/elementary-apps).
+**ELEMENTARY APPS** is a resource for 3rd party software designed for [elementary (OS)](http://elementary.io), a fast and open desktop operating system. It was was started on 1st January 2015 at [r/elementaryos](https://www.reddit.com/r/elementaryos/comments/2r0xey/third_party_development_and_apps/), [with](http://madeforelementary.tumblr.com/) [some](https://github.com/PerfectCarl/elementary-apps) [inspiration](https://github.com/elementary-fr/ideas). It is now hosted on GitHub ([repository](https://github.com/quassy/elementary-apps)), so if you find an error or want to add an app, [file a report](https://github.com/quassy/elementary-apps/issues/new) or join the [chat](https://gitter.im/quassy/elementary-apps).
 
 ## Contribute
 
@@ -19,7 +19,7 @@ Guidelines:
  * Apps should be targeted towards elementary and written in GTK3, exceptions may be made
  * Projects which have stopped working in the current release and have not seen updates in 4-6 months will be hidden by `published: false`
 
-### Screenshot
+### SOME SNAP OF WORK
 
 Every app should have at least one, high-quality screenshot ([issue #2](https://github.com/quassy/elementary-apps/issues/2)).
 
