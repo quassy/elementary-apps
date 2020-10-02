@@ -4,11 +4,11 @@ title: Readme
 permalink: /readme/
 ---
 
-**elementary apps** is a resource for 3rd party software designed for [elementary (OS)](http://elementary.io), a fast and open desktop operating system. It was was started on 1st January 2015 at [r/elementaryos](https://www.reddit.com/r/elementaryos/comments/2r0xey/third_party_development_and_apps/), [with](http://madeforelementary.tumblr.com/) [some](https://github.com/PerfectCarl/elementary-apps) [inspiration](https://github.com/elementary-fr/ideas). It is now hosted on GitHub ([repository](https://github.com/quassy/elementary-apps)), so if you find an error or want to add an app, [file a report](https://github.com/quassy/elementary-apps/issues/new) or join the [chat](https://gitter.im/quassy/elementary-apps).
+**ELEMENTRY-APPs** is a resource for 3rd party software designed for [elementary (OS)](http://elementary.io), a fast and open desktop operating system. It was started on 1st January 2015 at [r/elementaryos](https://www.reddit.com/r/elementaryos/comments/2r0xey/third_party_development_and_apps/), [with](http://madeforelementary.tumblr.com/) [some](https://github.com/PerfectCarl/elementary-apps) [inspiration](https://github.com/elementary-fr/ideas). It is now hosted on GitHub ([repository](https://github.com/quassy/elementary-apps)), so if you find an error or want to add an app, [file a report](https://github.com/quassy/elementary-apps/issues/new) or join the [chat](https://gitter.im/quassy/elementary-apps).
 
-## Contribute
+## Contribute 
 
-### App
+### ELEMENTRY-APPs Amazing Project
 
 Check the [template file](https://github.com/{{ site.footer-links.github }}/blob/gh-pages/apps/.Template.md). To add an app, name the file accordingly, fill in as much info as you know and make a pull request.
 
