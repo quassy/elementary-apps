@@ -27,7 +27,7 @@ installation:
     info:
     - version: 0.3
       repository: 'ppa:nasc-team/daily'
-      package: nasc
+      package: com.github.parnold-x.nasc
       type: daily
 ---
 
